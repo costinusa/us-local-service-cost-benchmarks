@@ -1,0 +1,8 @@
+title: US Homeowner Maintenance Cost Handbook
+theme: minima
+baseurl: /us-local-service-cost-benchmarks
+exclude: [README.md, SUMMARY.md]
+plugins: [jekyll-relative-links]
+relative_links:
+  enabled: true
+  collections: false

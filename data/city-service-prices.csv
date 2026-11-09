@@ -1,0 +1,449 @@
+city,state,service,price_code,scope,low,high,currency,unit,basis,published_at,guide_url
+Albuquerque,NM,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,188,USD,per visit,planning estimate,2026-11-08T10:55:12.859900+00:00,https://costinusa.com/house-cleaning/albuquerque-nm/
+Albuquerque,NM,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",170,280,USD,per visit,planning estimate,2026-11-08T10:55:12.859900+00:00,https://costinusa.com/house-cleaning/albuquerque-nm/
+Albuquerque,NM,house-cleaning,hourly-independent,Independent cleaner,18,30,USD,per cleaner-hour,planning estimate,2026-11-08T10:55:12.859900+00:00,https://costinusa.com/house-cleaning/albuquerque-nm/
+Albuquerque,NM,house-cleaning,hourly-company,Cleaning company,45,65,USD,per cleaner-hour,planning estimate,2026-11-08T10:55:12.859900+00:00,https://costinusa.com/house-cleaning/albuquerque-nm/
+Anaheim,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",115,195,USD,visit,planning estimate,2026-11-08T15:01:45.833077+00:00,https://costinusa.com/house-cleaning/anaheim-ca/
+Anaheim,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",185,295,USD,visit,planning estimate,2026-11-08T15:01:45.833077+00:00,https://costinusa.com/house-cleaning/anaheim-ca/
+Anaheim,CA,house-cleaning,hourly-independent,Independent cleaner,20,32,USD,cleaner-hour,planning estimate,2026-11-08T15:01:45.833077+00:00,https://costinusa.com/house-cleaning/anaheim-ca/
+Anaheim,CA,house-cleaning,hourly-company,Cleaning company,45,75,USD,cleaner-hour,planning estimate,2026-11-08T15:01:45.833077+00:00,https://costinusa.com/house-cleaning/anaheim-ca/
+Anchorage,AK,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",130,190,USD,per visit,planning estimate,2026-11-08T10:54:43.540307+00:00,https://costinusa.com/house-cleaning/anchorage-ak/
+Anchorage,AK,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",190,290,USD,per visit,planning estimate,2026-11-08T10:54:43.540307+00:00,https://costinusa.com/house-cleaning/anchorage-ak/
+Anchorage,AK,house-cleaning,hourly-independent,Independent cleaner,25,40,USD,per cleaner-hour,planning estimate,2026-11-08T10:54:43.540307+00:00,https://costinusa.com/house-cleaning/anchorage-ak/
+Anchorage,AK,house-cleaning,hourly-company,Cleaning company,50,80,USD,per cleaner-hour,planning estimate,2026-11-08T10:54:43.540307+00:00,https://costinusa.com/house-cleaning/anchorage-ak/
+Arlington,TX,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",100,155,USD,per visit,planning estimate,2026-11-08T14:14:34.303315+00:00,https://costinusa.com/house-cleaning/arlington-tx/
+Arlington,TX,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",160,230,USD,per visit,planning estimate,2026-11-08T14:14:34.303315+00:00,https://costinusa.com/house-cleaning/arlington-tx/
+Arlington,TX,house-cleaning,hourly-independent,Independent cleaner,20,38,USD,per cleaner-hour,planning estimate,2026-11-08T14:14:34.303315+00:00,https://costinusa.com/house-cleaning/arlington-tx/
+Arlington,TX,house-cleaning,hourly-company,Cleaning company,40,68,USD,per cleaner-hour,planning estimate,2026-11-08T14:14:34.303315+00:00,https://costinusa.com/house-cleaning/arlington-tx/
+Arlington,VA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",140,220,USD,per clean,planning estimate,2026-11-08T18:28:20.463590+00:00,https://costinusa.com/house-cleaning/arlington-va/
+Arlington,VA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",230,340,USD,per clean,planning estimate,2026-11-08T18:28:20.463590+00:00,https://costinusa.com/house-cleaning/arlington-va/
+Arlington,VA,house-cleaning,hourly-independent,Independent cleaner,25,40,USD,per cleaner-hour,planning estimate,2026-11-08T18:28:20.463590+00:00,https://costinusa.com/house-cleaning/arlington-va/
+Arlington,VA,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T18:28:20.463590+00:00,https://costinusa.com/house-cleaning/arlington-va/
+Atlanta,GA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,180,USD,per visit,planning estimate,2026-11-08T11:13:29.428379+00:00,https://costinusa.com/house-cleaning/atlanta-ga/
+Atlanta,GA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",165,280,USD,per visit,planning estimate,2026-11-08T11:13:29.428379+00:00,https://costinusa.com/house-cleaning/atlanta-ga/
+Atlanta,GA,house-cleaning,hourly-independent,Independent cleaner,20,40,USD,per cleaner-hour,planning estimate,2026-11-08T11:13:29.428379+00:00,https://costinusa.com/house-cleaning/atlanta-ga/
+Atlanta,GA,house-cleaning,hourly-company,Cleaning company,35,75,USD,per cleaner-hour,planning estimate,2026-11-08T11:13:29.428379+00:00,https://costinusa.com/house-cleaning/atlanta-ga/
+Aurora,CO,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",100,145,USD,per visit,planning estimate,2026-11-08T14:57:00.496678+00:00,https://costinusa.com/house-cleaning/aurora-co/
+Aurora,CO,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",160,230,USD,per visit,planning estimate,2026-11-08T14:57:00.496678+00:00,https://costinusa.com/house-cleaning/aurora-co/
+Aurora,CO,house-cleaning,hourly-independent,Independent cleaner,25,42,USD,per cleaner-hour,planning estimate,2026-11-08T14:57:00.496678+00:00,https://costinusa.com/house-cleaning/aurora-co/
+Aurora,CO,house-cleaning,hourly-company,Cleaning company,45,70,USD,per cleaner-hour,planning estimate,2026-11-08T14:57:00.496678+00:00,https://costinusa.com/house-cleaning/aurora-co/
+Aurora,IL,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,180,USD,per visit,planning estimate,2026-11-08T19:18:08.760074+00:00,https://costinusa.com/house-cleaning/aurora-il/
+Aurora,IL,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",160,250,USD,per visit,planning estimate,2026-11-08T19:18:08.760074+00:00,https://costinusa.com/house-cleaning/aurora-il/
+Aurora,IL,house-cleaning,hourly-independent,Independent cleaner,17,30,USD,per cleaner-hour,planning estimate,2026-11-08T19:18:08.760074+00:00,https://costinusa.com/house-cleaning/aurora-il/
+Aurora,IL,house-cleaning,hourly-company,Cleaning company,40,65,USD,per cleaner-hour,planning estimate,2026-11-08T19:18:08.760074+00:00,https://costinusa.com/house-cleaning/aurora-il/
+Bakersfield,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",95,145,USD,per clean,planning estimate,2026-11-08T14:16:34.460517+00:00,https://costinusa.com/house-cleaning/bakersfield-ca/
+Bakersfield,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",145,235,USD,per clean,planning estimate,2026-11-08T14:16:34.460517+00:00,https://costinusa.com/house-cleaning/bakersfield-ca/
+Bakersfield,CA,house-cleaning,hourly-independent,Independent cleaner,18,28,USD,per cleaner-hour,planning estimate,2026-11-08T14:16:34.460517+00:00,https://costinusa.com/house-cleaning/bakersfield-ca/
+Bakersfield,CA,house-cleaning,hourly-company,Cleaning company,40,65,USD,per cleaner-hour,planning estimate,2026-11-08T14:16:34.460517+00:00,https://costinusa.com/house-cleaning/bakersfield-ca/
+Baltimore,MD,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",140,195,USD,per visit,planning estimate,2026-11-08T10:52:37.707007+00:00,https://costinusa.com/house-cleaning/baltimore-md/
+Baltimore,MD,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",190,265,USD,per visit,planning estimate,2026-11-08T10:52:37.707007+00:00,https://costinusa.com/house-cleaning/baltimore-md/
+Baltimore,MD,house-cleaning,hourly-independent,Independent cleaner,22,42,USD,per cleaner-hour,planning estimate,2026-11-08T10:52:37.707007+00:00,https://costinusa.com/house-cleaning/baltimore-md/
+Baltimore,MD,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T10:52:37.707007+00:00,https://costinusa.com/house-cleaning/baltimore-md/
+Boise,ID,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,210,USD,per visit,planning estimate,2026-11-08T17:25:41.298169+00:00,https://costinusa.com/house-cleaning/boise-id/
+Boise,ID,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",190,350,USD,per visit,planning estimate,2026-11-08T17:25:41.298169+00:00,https://costinusa.com/house-cleaning/boise-id/
+Boise,ID,house-cleaning,hourly-independent,Independent cleaner,20,45,USD,per cleaner-hour,planning estimate,2026-11-08T17:25:41.298169+00:00,https://costinusa.com/house-cleaning/boise-id/
+Boise,ID,house-cleaning,hourly-company,Cleaning company,40,80,USD,per cleaner-hour,planning estimate,2026-11-08T17:25:41.298169+00:00,https://costinusa.com/house-cleaning/boise-id/
+Boston,MA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",130,180,USD,per visit,planning estimate,2026-11-08T13:24:59.808293+00:00,https://costinusa.com/house-cleaning/boston-ma/
+Boston,MA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",200,280,USD,per visit,planning estimate,2026-11-08T13:24:59.808293+00:00,https://costinusa.com/house-cleaning/boston-ma/
+Boston,MA,house-cleaning,hourly-independent,Independent cleaner,25,40,USD,per cleaner-hour,planning estimate,2026-11-08T13:24:59.808293+00:00,https://costinusa.com/house-cleaning/boston-ma/
+Boston,MA,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T13:24:59.808293+00:00,https://costinusa.com/house-cleaning/boston-ma/
+Brooklyn,NY,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",135,185,USD,per clean,planning estimate,2026-11-08T10:53:40.754610+00:00,https://costinusa.com/house-cleaning/brooklyn-ny/
+Brooklyn,NY,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",190,270,USD,per clean,planning estimate,2026-11-08T10:53:40.754610+00:00,https://costinusa.com/house-cleaning/brooklyn-ny/
+Brooklyn,NY,house-cleaning,hourly-independent,Independent cleaner,24,32,USD,per cleaner-hour,planning estimate,2026-11-08T10:53:40.754610+00:00,https://costinusa.com/house-cleaning/brooklyn-ny/
+Brooklyn,NY,house-cleaning,hourly-company,Cleaning company,55,75,USD,per cleaner-hour,planning estimate,2026-11-08T10:53:40.754610+00:00,https://costinusa.com/house-cleaning/brooklyn-ny/
+Buffalo,NY,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,195,USD,per visit,planning estimate,2026-11-08T16:24:32.434875+00:00,https://costinusa.com/house-cleaning/buffalo-ny/
+Buffalo,NY,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,310,USD,per visit,planning estimate,2026-11-08T16:24:32.434875+00:00,https://costinusa.com/house-cleaning/buffalo-ny/
+Buffalo,NY,house-cleaning,hourly-independent,Independent cleaner,20,38,USD,per cleaner-hour,planning estimate,2026-11-08T16:24:32.434875+00:00,https://costinusa.com/house-cleaning/buffalo-ny/
+Buffalo,NY,house-cleaning,hourly-company,Cleaning company,35,70,USD,per cleaner-hour,planning estimate,2026-11-08T16:24:32.434875+00:00,https://costinusa.com/house-cleaning/buffalo-ny/
+Chandler,AZ,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,190,USD,per visit,planning estimate,2026-11-08T16:17:11.975979+00:00,https://costinusa.com/house-cleaning/chandler-az/
+Chandler,AZ,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",170,290,USD,per visit,planning estimate,2026-11-08T16:17:11.975979+00:00,https://costinusa.com/house-cleaning/chandler-az/
+Chandler,AZ,house-cleaning,hourly-independent,Independent cleaner,22,38,USD,per cleaner-hour,planning estimate,2026-11-08T16:17:11.975979+00:00,https://costinusa.com/house-cleaning/chandler-az/
+Chandler,AZ,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T16:17:11.975979+00:00,https://costinusa.com/house-cleaning/chandler-az/
+Charlotte,NC,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",120,200,USD,per visit,planning estimate,2026-11-08T10:51:32.882576+00:00,https://costinusa.com/house-cleaning/charlotte-nc/
+Charlotte,NC,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,320,USD,per visit,planning estimate,2026-11-08T10:51:32.882576+00:00,https://costinusa.com/house-cleaning/charlotte-nc/
+Charlotte,NC,house-cleaning,hourly-independent,Independent cleaner,22,45,USD,per cleaner-hour,planning estimate,2026-11-08T10:51:32.882576+00:00,https://costinusa.com/house-cleaning/charlotte-nc/
+Charlotte,NC,house-cleaning,hourly-company,Cleaning company,45,70,USD,per cleaner-hour,planning estimate,2026-11-08T10:51:32.882576+00:00,https://costinusa.com/house-cleaning/charlotte-nc/
+Chesapeake,VA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",100,160,USD,per visit,planning estimate,2026-11-08T17:30:56.639161+00:00,https://costinusa.com/house-cleaning/chesapeake-va/
+Chesapeake,VA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",150,240,USD,per visit,planning estimate,2026-11-08T17:30:56.639161+00:00,https://costinusa.com/house-cleaning/chesapeake-va/
+Chesapeake,VA,house-cleaning,hourly-independent,Independent cleaner,20,45,USD,per cleaner-hour,planning estimate,2026-11-08T17:30:56.639161+00:00,https://costinusa.com/house-cleaning/chesapeake-va/
+Chesapeake,VA,house-cleaning,hourly-company,Cleaning company,40,65,USD,per cleaner-hour,planning estimate,2026-11-08T17:30:56.639161+00:00,https://costinusa.com/house-cleaning/chesapeake-va/
+Chicago,IL,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,180,USD,per visit,planning estimate,2026-11-08T10:53:28.255980+00:00,https://costinusa.com/house-cleaning/chicago-il/
+Chicago,IL,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,300,USD,per visit,planning estimate,2026-11-08T10:53:28.255980+00:00,https://costinusa.com/house-cleaning/chicago-il/
+Chicago,IL,house-cleaning,hourly-independent,Independent cleaner,23,42,USD,per cleaner-hour,planning estimate,2026-11-08T10:53:28.255980+00:00,https://costinusa.com/house-cleaning/chicago-il/
+Chicago,IL,house-cleaning,hourly-company,Cleaning company,48,75,USD,per cleaner-hour,planning estimate,2026-11-08T10:53:28.255980+00:00,https://costinusa.com/house-cleaning/chicago-il/
+Chula Vista,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,175,USD,per visit,planning estimate,2026-11-08T16:04:06.140728+00:00,https://costinusa.com/house-cleaning/chula-vista-ca/
+Chula Vista,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,280,USD,per visit,planning estimate,2026-11-08T16:04:06.140728+00:00,https://costinusa.com/house-cleaning/chula-vista-ca/
+Chula Vista,CA,house-cleaning,hourly-independent,Independent cleaner,24,35,USD,per cleaner-hour,planning estimate,2026-11-08T16:04:06.140728+00:00,https://costinusa.com/house-cleaning/chula-vista-ca/
+Chula Vista,CA,house-cleaning,hourly-company,Cleaning company,48,75,USD,per cleaner-hour,planning estimate,2026-11-08T16:04:06.140728+00:00,https://costinusa.com/house-cleaning/chula-vista-ca/
+Cincinnati,OH,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",140,215,USD,per visit,planning estimate,2026-11-08T15:23:37.169005+00:00,https://costinusa.com/house-cleaning/cincinnati-oh/
+Cincinnati,OH,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",240,340,USD,per visit,planning estimate,2026-11-08T15:23:37.169005+00:00,https://costinusa.com/house-cleaning/cincinnati-oh/
+Cincinnati,OH,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,per cleaner-hour,planning estimate,2026-11-08T15:23:37.169005+00:00,https://costinusa.com/house-cleaning/cincinnati-oh/
+Cincinnati,OH,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T15:23:37.169005+00:00,https://costinusa.com/house-cleaning/cincinnati-oh/
+Cleveland,OH,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",105,160,USD,per visit,planning estimate,2026-11-08T14:20:24.649463+00:00,https://costinusa.com/house-cleaning/cleveland-oh/
+Cleveland,OH,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",175,265,USD,per visit,planning estimate,2026-11-08T14:20:24.649463+00:00,https://costinusa.com/house-cleaning/cleveland-oh/
+Cleveland,OH,house-cleaning,hourly-independent,Independent cleaner,22,40,USD,per cleaner-hour,planning estimate,2026-11-08T14:20:24.649463+00:00,https://costinusa.com/house-cleaning/cleveland-oh/
+Cleveland,OH,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T14:20:24.649463+00:00,https://costinusa.com/house-cleaning/cleveland-oh/
+Colorado Springs,CO,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",120,180,USD,per visit,planning estimate,2026-11-08T13:39:06.250659+00:00,https://costinusa.com/house-cleaning/colorado-springs-co/
+Colorado Springs,CO,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",200,330,USD,per visit,planning estimate,2026-11-08T13:39:06.250659+00:00,https://costinusa.com/house-cleaning/colorado-springs-co/
+Colorado Springs,CO,house-cleaning,hourly-independent,Independent cleaner,25,50,USD,per cleaner-hour,planning estimate,2026-11-08T13:39:06.250659+00:00,https://costinusa.com/house-cleaning/colorado-springs-co/
+Colorado Springs,CO,house-cleaning,hourly-company,Cleaning company,50,80,USD,per cleaner-hour,planning estimate,2026-11-08T13:39:06.250659+00:00,https://costinusa.com/house-cleaning/colorado-springs-co/
+Columbus,GA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",85,145,USD,per visit,planning estimate,2026-11-08T22:55:29.711808+00:00,https://costinusa.com/house-cleaning/columbus-ga/
+Columbus,GA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",130,210,USD,per visit,planning estimate,2026-11-08T22:55:29.711808+00:00,https://costinusa.com/house-cleaning/columbus-ga/
+Columbus,GA,house-cleaning,hourly-independent,Independent cleaner,18,32,USD,per cleaner-hour,planning estimate,2026-11-08T22:55:29.711808+00:00,https://costinusa.com/house-cleaning/columbus-ga/
+Columbus,GA,house-cleaning,hourly-company,Cleaning company,35,60,USD,per cleaner-hour,planning estimate,2026-11-08T22:55:29.711808+00:00,https://costinusa.com/house-cleaning/columbus-ga/
+Columbus,OH,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",105,175,USD,per visit,planning estimate,2026-11-08T12:41:10.169968+00:00,https://costinusa.com/house-cleaning/columbus-oh/
+Columbus,OH,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",160,275,USD,per visit,planning estimate,2026-11-08T12:41:10.169968+00:00,https://costinusa.com/house-cleaning/columbus-oh/
+Columbus,OH,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,per cleaner-hour,planning estimate,2026-11-08T12:41:10.169968+00:00,https://costinusa.com/house-cleaning/columbus-oh/
+Columbus,OH,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T12:41:10.169968+00:00,https://costinusa.com/house-cleaning/columbus-oh/
+Corpus Christi,TX,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",90,150,USD,per visit,planning estimate,2026-11-08T15:13:26.586138+00:00,https://costinusa.com/house-cleaning/corpus-christi-tx/
+Corpus Christi,TX,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",130,210,USD,per visit,planning estimate,2026-11-08T15:13:26.586138+00:00,https://costinusa.com/house-cleaning/corpus-christi-tx/
+Corpus Christi,TX,house-cleaning,hourly-independent,Independent cleaner,18,28,USD,per cleaner-hour,planning estimate,2026-11-08T15:13:26.586138+00:00,https://costinusa.com/house-cleaning/corpus-christi-tx/
+Corpus Christi,TX,house-cleaning,hourly-company,Cleaning company,35,60,USD,per cleaner-hour,planning estimate,2026-11-08T15:13:26.586138+00:00,https://costinusa.com/house-cleaning/corpus-christi-tx/
+Cypress,TX,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",115,175,USD,per visit,planning estimate,2026-11-08T19:10:38.310739+00:00,https://costinusa.com/house-cleaning/cypress-tx/
+Cypress,TX,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,280,USD,per visit,planning estimate,2026-11-08T19:10:38.310739+00:00,https://costinusa.com/house-cleaning/cypress-tx/
+Cypress,TX,house-cleaning,hourly-independent,Independent cleaner,18,35,USD,per cleaner-hour,planning estimate,2026-11-08T19:10:38.310739+00:00,https://costinusa.com/house-cleaning/cypress-tx/
+Cypress,TX,house-cleaning,hourly-company,Cleaning company,40,65,USD,per cleaner-hour,planning estimate,2026-11-08T19:10:38.310739+00:00,https://costinusa.com/house-cleaning/cypress-tx/
+Dallas,TX,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,180,USD,per visit,planning estimate,2026-11-08T10:43:45.502207+00:00,https://costinusa.com/house-cleaning/dallas-tx/
+Dallas,TX,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",160,260,USD,per visit,planning estimate,2026-11-08T10:43:45.502207+00:00,https://costinusa.com/house-cleaning/dallas-tx/
+Dallas,TX,house-cleaning,hourly-independent,Independent cleaner,22,38,USD,per cleaner-hour,planning estimate,2026-11-08T10:43:45.502207+00:00,https://costinusa.com/house-cleaning/dallas-tx/
+Dallas,TX,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T10:43:45.502207+00:00,https://costinusa.com/house-cleaning/dallas-tx/
+Denver,CO,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",120,200,USD,per visit,planning estimate,2026-11-08T10:13:25.870551+00:00,https://costinusa.com/house-cleaning/denver-co/
+Denver,CO,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,310,USD,per visit,planning estimate,2026-11-08T10:13:25.870551+00:00,https://costinusa.com/house-cleaning/denver-co/
+Denver,CO,house-cleaning,hourly-independent,Independent cleaner,25,45,USD,per cleaner-hour,planning estimate,2026-11-08T10:13:25.870551+00:00,https://costinusa.com/house-cleaning/denver-co/
+Denver,CO,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T10:13:25.870551+00:00,https://costinusa.com/house-cleaning/denver-co/
+Des Moines,IA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",95,160,USD,per visit,planning estimate,2026-11-08T18:10:29.296330+00:00,https://costinusa.com/house-cleaning/des-moines-ia/
+Des Moines,IA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",170,280,USD,per visit,planning estimate,2026-11-08T18:10:29.296330+00:00,https://costinusa.com/house-cleaning/des-moines-ia/
+Des Moines,IA,house-cleaning,hourly-independent,Independent cleaner,23,40,USD,per cleaner-hour,planning estimate,2026-11-08T18:10:29.296330+00:00,https://costinusa.com/house-cleaning/des-moines-ia/
+Des Moines,IA,house-cleaning,hourly-company,Cleaning company,40,70,USD,per cleaner-hour,planning estimate,2026-11-08T18:10:29.296330+00:00,https://costinusa.com/house-cleaning/des-moines-ia/
+Detroit,MI,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",80,140,USD,per visit,planning estimate,2026-11-08T10:39:02.044524+00:00,https://costinusa.com/house-cleaning/detroit-mi/
+Detroit,MI,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",130,220,USD,per visit,planning estimate,2026-11-08T10:39:02.044524+00:00,https://costinusa.com/house-cleaning/detroit-mi/
+Detroit,MI,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,per cleaner-hour,planning estimate,2026-11-08T10:39:02.044524+00:00,https://costinusa.com/house-cleaning/detroit-mi/
+Detroit,MI,house-cleaning,hourly-company,Cleaning company,40,65,USD,per cleaner-hour,planning estimate,2026-11-08T10:39:02.044524+00:00,https://costinusa.com/house-cleaning/detroit-mi/
+El Paso,TX,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",100,155,USD,per visit,planning estimate,2026-11-08T12:52:49.036196+00:00,https://costinusa.com/house-cleaning/el-paso-tx/
+El Paso,TX,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",170,260,USD,per visit,planning estimate,2026-11-08T12:52:49.036196+00:00,https://costinusa.com/house-cleaning/el-paso-tx/
+El Paso,TX,house-cleaning,hourly-independent,Independent cleaner,17,35,USD,per cleaner-hour,planning estimate,2026-11-08T12:52:49.036196+00:00,https://costinusa.com/house-cleaning/el-paso-tx/
+El Paso,TX,house-cleaning,hourly-company,Cleaning company,35,60,USD,per cleaner-hour,planning estimate,2026-11-08T12:52:49.036196+00:00,https://costinusa.com/house-cleaning/el-paso-tx/
+Fayetteville,NC,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",95,160,USD,per visit,planning estimate,2026-11-08T18:49:46.941318+00:00,https://costinusa.com/house-cleaning/fayetteville-nc/
+Fayetteville,NC,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",140,250,USD,per visit,planning estimate,2026-11-08T18:49:46.941318+00:00,https://costinusa.com/house-cleaning/fayetteville-nc/
+Fayetteville,NC,house-cleaning,hourly-independent,Independent cleaner,18,35,USD,per cleaner-hour,planning estimate,2026-11-08T18:49:46.941318+00:00,https://costinusa.com/house-cleaning/fayetteville-nc/
+Fayetteville,NC,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T18:49:46.941318+00:00,https://costinusa.com/house-cleaning/fayetteville-nc/
+Fontana,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",105,175,USD,per visit,planning estimate,2026-11-08T22:55:29.648032+00:00,https://costinusa.com/house-cleaning/fontana-ca/
+Fontana,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",160,265,USD,per visit,planning estimate,2026-11-08T22:55:29.648032+00:00,https://costinusa.com/house-cleaning/fontana-ca/
+Fontana,CA,house-cleaning,hourly-independent,Independent cleaner,20,30,USD,per cleaner-hour,planning estimate,2026-11-08T22:55:29.648032+00:00,https://costinusa.com/house-cleaning/fontana-ca/
+Fontana,CA,house-cleaning,hourly-company,Cleaning company,40,65,USD,per cleaner-hour,planning estimate,2026-11-08T22:55:29.648032+00:00,https://costinusa.com/house-cleaning/fontana-ca/
+Fort Wayne,IN,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",100,180,USD,per visit,planning estimate,2026-11-08T16:19:52.162342+00:00,https://costinusa.com/house-cleaning/fort-wayne-in/
+Fort Wayne,IN,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",160,290,USD,per visit,planning estimate,2026-11-08T16:19:52.162342+00:00,https://costinusa.com/house-cleaning/fort-wayne-in/
+Fort Wayne,IN,house-cleaning,hourly-independent,Independent cleaner,20,40,USD,per cleaner-hour,planning estimate,2026-11-08T16:19:52.162342+00:00,https://costinusa.com/house-cleaning/fort-wayne-in/
+Fort Wayne,IN,house-cleaning,hourly-company,Cleaning company,40,75,USD,per cleaner-hour,planning estimate,2026-11-08T16:19:52.162342+00:00,https://costinusa.com/house-cleaning/fort-wayne-in/
+Fort Worth,TX,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",115,170,USD,per visit,planning estimate,2026-11-08T10:44:13.115929+00:00,https://costinusa.com/house-cleaning/fort-worth-tx/
+Fort Worth,TX,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",160,235,USD,per visit,planning estimate,2026-11-08T10:44:13.115929+00:00,https://costinusa.com/house-cleaning/fort-worth-tx/
+Fort Worth,TX,house-cleaning,hourly-independent,Independent cleaner,25,50,USD,per cleaner-hour,planning estimate,2026-11-08T10:44:13.115929+00:00,https://costinusa.com/house-cleaning/fort-worth-tx/
+Fort Worth,TX,house-cleaning,hourly-company,Cleaning company,45,80,USD,per cleaner-hour,planning estimate,2026-11-08T10:44:13.115929+00:00,https://costinusa.com/house-cleaning/fort-worth-tx/
+Fremont,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",120,200,USD,per visit,planning estimate,2026-11-08T17:37:22.102262+00:00,https://costinusa.com/house-cleaning/fremont-ca/
+Fremont,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",220,360,USD,per visit,planning estimate,2026-11-08T17:37:22.102262+00:00,https://costinusa.com/house-cleaning/fremont-ca/
+Fremont,CA,house-cleaning,hourly-independent,Independent cleaner,28,45,USD,per cleaner-hour,planning estimate,2026-11-08T17:37:22.102262+00:00,https://costinusa.com/house-cleaning/fremont-ca/
+Fremont,CA,house-cleaning,hourly-company,Cleaning company,50,85,USD,per cleaner-hour,planning estimate,2026-11-08T17:37:22.102262+00:00,https://costinusa.com/house-cleaning/fremont-ca/
+Fresno,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",140,230,USD,per clean,planning estimate,2026-11-08T12:41:10.134412+00:00,https://costinusa.com/house-cleaning/fresno-ca/
+Fresno,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",240,350,USD,per clean,planning estimate,2026-11-08T12:41:10.134412+00:00,https://costinusa.com/house-cleaning/fresno-ca/
+Fresno,CA,house-cleaning,hourly-independent,Independent cleaner,22,40,USD,per cleaner-hour,planning estimate,2026-11-08T12:41:10.134412+00:00,https://costinusa.com/house-cleaning/fresno-ca/
+Fresno,CA,house-cleaning,hourly-company,Cleaning company,45,80,USD,per cleaner-hour,planning estimate,2026-11-08T12:41:10.134412+00:00,https://costinusa.com/house-cleaning/fresno-ca/
+Garland,TX,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,170,USD,per visit,planning estimate,2026-11-08T17:13:20.475313+00:00,https://costinusa.com/house-cleaning/garland-tx/
+Garland,TX,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",160,250,USD,per visit,planning estimate,2026-11-08T17:13:20.475313+00:00,https://costinusa.com/house-cleaning/garland-tx/
+Garland,TX,house-cleaning,hourly-independent,Independent cleaner,18,30,USD,per cleaner-hour,planning estimate,2026-11-08T17:13:20.475313+00:00,https://costinusa.com/house-cleaning/garland-tx/
+Garland,TX,house-cleaning,hourly-company,Cleaning company,40,65,USD,per cleaner-hour,planning estimate,2026-11-08T17:13:20.475313+00:00,https://costinusa.com/house-cleaning/garland-tx/
+Glendale,AZ,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",120,230,USD,per visit,planning estimate,2026-11-09T01:37:06.695035+00:00,https://costinusa.com/house-cleaning/glendale-az/
+Glendale,AZ,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",190,350,USD,per visit,planning estimate,2026-11-09T01:37:06.695035+00:00,https://costinusa.com/house-cleaning/glendale-az/
+Glendale,AZ,house-cleaning,hourly-independent,Independent cleaner,22,35,USD,per cleaner-hour,planning estimate,2026-11-09T01:37:06.695035+00:00,https://costinusa.com/house-cleaning/glendale-az/
+Glendale,AZ,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-09T01:37:06.695035+00:00,https://costinusa.com/house-cleaning/glendale-az/
+Glendale,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",100,159,USD,per visit,planning estimate,2026-11-08T19:08:28.105801+00:00,https://costinusa.com/house-cleaning/glendale-ca/
+Glendale,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",150,239,USD,per visit,planning estimate,2026-11-08T19:08:28.105801+00:00,https://costinusa.com/house-cleaning/glendale-ca/
+Glendale,CA,house-cleaning,hourly-independent,Independent cleaner,24,45,USD,per cleaner-hour,planning estimate,2026-11-08T19:08:28.105801+00:00,https://costinusa.com/house-cleaning/glendale-ca/
+Glendale,CA,house-cleaning,hourly-company,Cleaning company,50,75,USD,per cleaner-hour,planning estimate,2026-11-08T19:08:28.105801+00:00,https://costinusa.com/house-cleaning/glendale-ca/
+Greensboro,NC,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",95,160,USD,per visit,planning estimate,2026-11-08T15:49:50.142702+00:00,https://costinusa.com/house-cleaning/greensboro-nc/
+Greensboro,NC,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",150,290,USD,per visit,planning estimate,2026-11-08T15:49:50.142702+00:00,https://costinusa.com/house-cleaning/greensboro-nc/
+Greensboro,NC,house-cleaning,hourly-independent,Independent cleaner,18,28,USD,per cleaner-hour,planning estimate,2026-11-08T15:49:50.142702+00:00,https://costinusa.com/house-cleaning/greensboro-nc/
+Greensboro,NC,house-cleaning,hourly-company,Cleaning company,35,60,USD,per cleaner-hour,planning estimate,2026-11-08T15:49:50.142702+00:00,https://costinusa.com/house-cleaning/greensboro-nc/
+Henderson,NV,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,195,USD,per visit,planning estimate,2026-11-08T15:47:44.974886+00:00,https://costinusa.com/house-cleaning/henderson-nv/
+Henderson,NV,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,350,USD,per visit,planning estimate,2026-11-08T15:47:44.974886+00:00,https://costinusa.com/house-cleaning/henderson-nv/
+Henderson,NV,house-cleaning,hourly-independent,Independent cleaner,22,45,USD,per cleaner-hour,planning estimate,2026-11-08T15:47:44.974886+00:00,https://costinusa.com/house-cleaning/henderson-nv/
+Henderson,NV,house-cleaning,hourly-company,Cleaning company,40,75,USD,per cleaner-hour,planning estimate,2026-11-08T15:47:44.974886+00:00,https://costinusa.com/house-cleaning/henderson-nv/
+Hialeah,FL,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",120,195,USD,per visit,planning estimate,2026-11-08T17:10:25.281969+00:00,https://costinusa.com/house-cleaning/hialeah-fl/
+Hialeah,FL,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",160,290,USD,per visit,planning estimate,2026-11-08T17:10:25.281969+00:00,https://costinusa.com/house-cleaning/hialeah-fl/
+Hialeah,FL,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,per cleaner-hour,planning estimate,2026-11-08T17:10:25.281969+00:00,https://costinusa.com/house-cleaning/hialeah-fl/
+Hialeah,FL,house-cleaning,hourly-company,Cleaning company,40,75,USD,per cleaner-hour,planning estimate,2026-11-08T17:10:25.281969+00:00,https://costinusa.com/house-cleaning/hialeah-fl/
+Honolulu,HI,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",120,180,USD,per visit,planning estimate,2026-11-08T14:59:45.673364+00:00,https://costinusa.com/house-cleaning/honolulu-hi/
+Honolulu,HI,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",220,350,USD,per visit,planning estimate,2026-11-08T14:59:45.673364+00:00,https://costinusa.com/house-cleaning/honolulu-hi/
+Honolulu,HI,house-cleaning,hourly-independent,Independent cleaner,24,40,USD,per cleaner-hour,planning estimate,2026-11-08T14:59:45.673364+00:00,https://costinusa.com/house-cleaning/honolulu-hi/
+Honolulu,HI,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T14:59:45.673364+00:00,https://costinusa.com/house-cleaning/honolulu-hi/
+Houston,TX,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",130,200,USD,per visit,planning estimate,2026-11-08T10:53:09.388218+00:00,https://costinusa.com/house-cleaning/houston-tx/
+Houston,TX,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",210,330,USD,per visit,planning estimate,2026-11-08T10:53:09.388218+00:00,https://costinusa.com/house-cleaning/houston-tx/
+Houston,TX,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,per cleaner-hour,planning estimate,2026-11-08T10:53:09.388218+00:00,https://costinusa.com/house-cleaning/houston-tx/
+Houston,TX,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T10:53:09.388218+00:00,https://costinusa.com/house-cleaning/houston-tx/
+Huntington Beach,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",150,230,USD,per visit,planning estimate,2026-11-08T18:54:02.229323+00:00,https://costinusa.com/house-cleaning/huntington-beach-ca/
+Huntington Beach,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",260,390,USD,per visit,planning estimate,2026-11-08T18:54:02.229323+00:00,https://costinusa.com/house-cleaning/huntington-beach-ca/
+Huntington Beach,CA,house-cleaning,hourly-independent,Independent cleaner,22,40,USD,per cleaner-hour,planning estimate,2026-11-08T18:54:02.229323+00:00,https://costinusa.com/house-cleaning/huntington-beach-ca/
+Huntington Beach,CA,house-cleaning,hourly-company,Cleaning company,50,100,USD,per cleaner-hour,planning estimate,2026-11-08T18:54:02.229323+00:00,https://costinusa.com/house-cleaning/huntington-beach-ca/
+Huntsville,AL,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",95,155,USD,per visit,planning estimate,2026-11-08T18:04:03.937246+00:00,https://costinusa.com/house-cleaning/huntsville-al/
+Huntsville,AL,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",150,230,USD,per visit,planning estimate,2026-11-08T18:04:03.937246+00:00,https://costinusa.com/house-cleaning/huntsville-al/
+Huntsville,AL,house-cleaning,hourly-independent,Independent cleaner,20,40,USD,per cleaner-hour,planning estimate,2026-11-08T18:04:03.937246+00:00,https://costinusa.com/house-cleaning/huntsville-al/
+Huntsville,AL,house-cleaning,hourly-company,Cleaning company,40,75,USD,per cleaner-hour,planning estimate,2026-11-08T18:04:03.937246+00:00,https://costinusa.com/house-cleaning/huntsville-al/
+Indianapolis,IN,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",100,150,USD,per visit,planning estimate,2026-11-08T09:59:55.322208+00:00,https://costinusa.com/house-cleaning/indianapolis-in/
+Indianapolis,IN,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",170,240,USD,per visit,planning estimate,2026-11-08T09:59:55.322208+00:00,https://costinusa.com/house-cleaning/indianapolis-in/
+Indianapolis,IN,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,per cleaner-hour,planning estimate,2026-11-08T09:59:55.322208+00:00,https://costinusa.com/house-cleaning/indianapolis-in/
+Indianapolis,IN,house-cleaning,hourly-company,Cleaning company,35,55,USD,per cleaner-hour,planning estimate,2026-11-08T09:59:55.322208+00:00,https://costinusa.com/house-cleaning/indianapolis-in/
+Irvine,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",120,220,USD,visit,planning estimate,2026-11-08T16:32:13.010284+00:00,https://costinusa.com/house-cleaning/irvine-ca/
+Irvine,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,350,USD,visit,planning estimate,2026-11-08T16:32:13.010284+00:00,https://costinusa.com/house-cleaning/irvine-ca/
+Irvine,CA,house-cleaning,hourly-independent,Independent cleaner,22,45,USD,cleaner-hour,planning estimate,2026-11-08T16:32:13.010284+00:00,https://costinusa.com/house-cleaning/irvine-ca/
+Irvine,CA,house-cleaning,hourly-company,Cleaning company,45,80,USD,cleaner-hour,planning estimate,2026-11-08T16:32:13.010284+00:00,https://costinusa.com/house-cleaning/irvine-ca/
+Irving,TX,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",100,165,USD,per visit,planning estimate,2026-11-08T17:20:00.943538+00:00,https://costinusa.com/house-cleaning/irving-tx/
+Irving,TX,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",175,280,USD,per visit,planning estimate,2026-11-08T17:20:00.943538+00:00,https://costinusa.com/house-cleaning/irving-tx/
+Irving,TX,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,per cleaner-hour,planning estimate,2026-11-08T17:20:00.943538+00:00,https://costinusa.com/house-cleaning/irving-tx/
+Irving,TX,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T17:20:00.943538+00:00,https://costinusa.com/house-cleaning/irving-tx/
+Jacksonville,FL,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,175,USD,per visit,planning estimate,2026-11-08T10:56:33.192892+00:00,https://costinusa.com/house-cleaning/jacksonville-fl/
+Jacksonville,FL,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",170,275,USD,per visit,planning estimate,2026-11-08T10:56:33.192892+00:00,https://costinusa.com/house-cleaning/jacksonville-fl/
+Jacksonville,FL,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,per cleaner-hour,planning estimate,2026-11-08T10:56:33.192892+00:00,https://costinusa.com/house-cleaning/jacksonville-fl/
+Jacksonville,FL,house-cleaning,hourly-company,Cleaning company,38,65,USD,per cleaner-hour,planning estimate,2026-11-08T10:56:33.192892+00:00,https://costinusa.com/house-cleaning/jacksonville-fl/
+Jersey City,NJ,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,180,USD,per visit,planning estimate,2026-11-08T16:10:41.536841+00:00,https://costinusa.com/house-cleaning/jersey-city-nj/
+Jersey City,NJ,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",170,280,USD,per visit,planning estimate,2026-11-08T16:10:41.536841+00:00,https://costinusa.com/house-cleaning/jersey-city-nj/
+Jersey City,NJ,house-cleaning,hourly-independent,Independent cleaner,22,32,USD,per cleaner-hour,planning estimate,2026-11-08T16:10:41.536841+00:00,https://costinusa.com/house-cleaning/jersey-city-nj/
+Jersey City,NJ,house-cleaning,hourly-company,Cleaning company,50,90,USD,per cleaner-hour,planning estimate,2026-11-08T16:10:41.536841+00:00,https://costinusa.com/house-cleaning/jersey-city-nj/
+Kansas City,MO,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,150,USD,per visit,planning estimate,2026-11-08T13:17:00.494788+00:00,https://costinusa.com/house-cleaning/kansas-city-mo/
+Kansas City,MO,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",150,220,USD,per visit,planning estimate,2026-11-08T13:17:00.494788+00:00,https://costinusa.com/house-cleaning/kansas-city-mo/
+Kansas City,MO,house-cleaning,hourly-independent,Independent cleaner,25,45,USD,per cleaner-hour,planning estimate,2026-11-08T13:17:00.494788+00:00,https://costinusa.com/house-cleaning/kansas-city-mo/
+Kansas City,MO,house-cleaning,hourly-company,Cleaning company,45,65,USD,per cleaner-hour,planning estimate,2026-11-08T13:17:00.494788+00:00,https://costinusa.com/house-cleaning/kansas-city-mo/
+Las Vegas,NV,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",100,150,USD,per visit,planning estimate,2026-11-08T13:24:59.677607+00:00,https://costinusa.com/house-cleaning/las-vegas-nv/
+Las Vegas,NV,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",150,220,USD,per visit,planning estimate,2026-11-08T13:24:59.677607+00:00,https://costinusa.com/house-cleaning/las-vegas-nv/
+Las Vegas,NV,house-cleaning,hourly-independent,Independent cleaner,21,35,USD,per cleaner-hour,planning estimate,2026-11-08T13:24:59.677607+00:00,https://costinusa.com/house-cleaning/las-vegas-nv/
+Las Vegas,NV,house-cleaning,hourly-company,Cleaning company,45,65,USD,per cleaner-hour,planning estimate,2026-11-08T13:24:59.677607+00:00,https://costinusa.com/house-cleaning/las-vegas-nv/
+Lexington,KY,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",95,165,USD,per visit,planning estimate,2026-11-08T15:06:31.177294+00:00,https://costinusa.com/house-cleaning/lexington-ky/
+Lexington,KY,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",150,240,USD,per visit,planning estimate,2026-11-08T15:06:31.177294+00:00,https://costinusa.com/house-cleaning/lexington-ky/
+Lexington,KY,house-cleaning,hourly-independent,Independent cleaner,20,40,USD,per cleaner-hour,planning estimate,2026-11-08T15:06:31.177294+00:00,https://costinusa.com/house-cleaning/lexington-ky/
+Lexington,KY,house-cleaning,hourly-company,Cleaning company,35,60,USD,per cleaner-hour,planning estimate,2026-11-08T15:06:31.177294+00:00,https://costinusa.com/house-cleaning/lexington-ky/
+Little Rock,AR,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",90,155,USD,per clean,planning estimate,2026-11-08T18:45:41.687669+00:00,https://costinusa.com/house-cleaning/little-rock-ar/
+Little Rock,AR,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",140,240,USD,per clean,planning estimate,2026-11-08T18:45:41.687669+00:00,https://costinusa.com/house-cleaning/little-rock-ar/
+Little Rock,AR,house-cleaning,hourly-independent,Independent cleaner,20,38,USD,per cleaner-hour,planning estimate,2026-11-08T18:45:41.687669+00:00,https://costinusa.com/house-cleaning/little-rock-ar/
+Little Rock,AR,house-cleaning,hourly-company,Cleaning company,40,68,USD,per cleaner-hour,planning estimate,2026-11-08T18:45:41.687669+00:00,https://costinusa.com/house-cleaning/little-rock-ar/
+Long Beach,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,190,USD,per visit,planning estimate,2026-11-08T13:49:38.067018+00:00,https://costinusa.com/house-cleaning/long-beach-ca/
+Long Beach,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,310,USD,per visit,planning estimate,2026-11-08T13:49:38.067018+00:00,https://costinusa.com/house-cleaning/long-beach-ca/
+Long Beach,CA,house-cleaning,hourly-independent,Independent cleaner,24,40,USD,per cleaner-hour,planning estimate,2026-11-08T13:49:38.067018+00:00,https://costinusa.com/house-cleaning/long-beach-ca/
+Long Beach,CA,house-cleaning,hourly-company,Cleaning company,35,65,USD,per cleaner-hour,planning estimate,2026-11-08T13:49:38.067018+00:00,https://costinusa.com/house-cleaning/long-beach-ca/
+Los Angeles,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",125,190,USD,per visit,planning estimate,2026-11-08T06:31:55.541756+00:00,https://costinusa.com/house-cleaning/los-angeles-ca/
+Los Angeles,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",200,290,USD,per visit,planning estimate,2026-11-08T06:31:55.541756+00:00,https://costinusa.com/house-cleaning/los-angeles-ca/
+Los Angeles,CA,house-cleaning,hourly-independent,Independent cleaner,30,50,USD,per cleaner-hour,planning estimate,2026-11-08T06:31:55.541756+00:00,https://costinusa.com/house-cleaning/los-angeles-ca/
+Los Angeles,CA,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T06:31:55.541756+00:00,https://costinusa.com/house-cleaning/los-angeles-ca/
+Louisville,KY,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",105,155,USD,per-visit,planning estimate,2026-11-08T10:49:04.696292+00:00,https://costinusa.com/house-cleaning/louisville-ky/
+Louisville,KY,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",150,230,USD,per-visit,planning estimate,2026-11-08T10:49:04.696292+00:00,https://costinusa.com/house-cleaning/louisville-ky/
+Louisville,KY,house-cleaning,hourly-independent,Independent cleaner,20,38,USD,per cleaner-hour,planning estimate,2026-11-08T10:49:04.696292+00:00,https://costinusa.com/house-cleaning/louisville-ky/
+Louisville,KY,house-cleaning,hourly-company,Cleaning company,35,60,USD,per cleaner-hour,planning estimate,2026-11-08T10:49:04.696292+00:00,https://costinusa.com/house-cleaning/louisville-ky/
+Madison,WI,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",130,210,USD,per visit,planning estimate,2026-11-08T16:00:10.815102+00:00,https://costinusa.com/house-cleaning/madison-wi/
+Madison,WI,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",220,330,USD,per visit,planning estimate,2026-11-08T16:00:10.815102+00:00,https://costinusa.com/house-cleaning/madison-wi/
+Madison,WI,house-cleaning,hourly-independent,Independent cleaner,22,35,USD,per cleaner-hour,planning estimate,2026-11-08T16:00:10.815102+00:00,https://costinusa.com/house-cleaning/madison-wi/
+Madison,WI,house-cleaning,hourly-company,Cleaning company,40,63,USD,per cleaner-hour,planning estimate,2026-11-08T16:00:10.815102+00:00,https://costinusa.com/house-cleaning/madison-wi/
+Manhattan,NY,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",135,205,USD,per visit,planning estimate,2026-11-08T13:24:59.742768+00:00,https://costinusa.com/house-cleaning/manhattan-ny/
+Manhattan,NY,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",230,375,USD,per visit,planning estimate,2026-11-08T13:24:59.742768+00:00,https://costinusa.com/house-cleaning/manhattan-ny/
+Manhattan,NY,house-cleaning,hourly-independent,Independent cleaner,25,50,USD,per cleaner-hour,planning estimate,2026-11-08T13:24:59.742768+00:00,https://costinusa.com/house-cleaning/manhattan-ny/
+Manhattan,NY,house-cleaning,hourly-company,Cleaning company,50,80,USD,per cleaner-hour,planning estimate,2026-11-08T13:24:59.742768+00:00,https://costinusa.com/house-cleaning/manhattan-ny/
+Memphis,TN,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",85,160,USD,per visit,planning estimate,2026-11-08T10:43:37.308500+00:00,https://costinusa.com/house-cleaning/memphis-tn/
+Memphis,TN,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",120,220,USD,per visit,planning estimate,2026-11-08T10:43:37.308500+00:00,https://costinusa.com/house-cleaning/memphis-tn/
+Memphis,TN,house-cleaning,hourly-independent,Independent cleaner,18,35,USD,per cleaner-hour,planning estimate,2026-11-08T10:43:37.308500+00:00,https://costinusa.com/house-cleaning/memphis-tn/
+Memphis,TN,house-cleaning,hourly-company,Cleaning company,35,65,USD,per cleaner-hour,planning estimate,2026-11-08T10:43:37.308500+00:00,https://costinusa.com/house-cleaning/memphis-tn/
+Mesa,AZ,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",100,160,USD,per visit,planning estimate,2026-11-09T01:39:04.095259+00:00,https://costinusa.com/house-cleaning/mesa-az/
+Mesa,AZ,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",150,250,USD,per visit,planning estimate,2026-11-09T01:39:04.095259+00:00,https://costinusa.com/house-cleaning/mesa-az/
+Mesa,AZ,house-cleaning,hourly-independent,Independent cleaner,22,35,USD,per cleaner-hour,planning estimate,2026-11-09T01:39:04.095259+00:00,https://costinusa.com/house-cleaning/mesa-az/
+Mesa,AZ,house-cleaning,hourly-company,Cleaning company,45,80,USD,per cleaner-hour,planning estimate,2026-11-09T01:39:04.095259+00:00,https://costinusa.com/house-cleaning/mesa-az/
+Miami,FL,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,175,USD,per visit,planning estimate,2026-11-08T13:07:54.994620+00:00,https://costinusa.com/house-cleaning/miami-fl/
+Miami,FL,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",165,240,USD,per visit,planning estimate,2026-11-08T13:07:54.994620+00:00,https://costinusa.com/house-cleaning/miami-fl/
+Miami,FL,house-cleaning,hourly-independent,Independent cleaner,22,35,USD,per cleaner-hour,planning estimate,2026-11-08T13:07:54.994620+00:00,https://costinusa.com/house-cleaning/miami-fl/
+Miami,FL,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T13:07:54.994620+00:00,https://costinusa.com/house-cleaning/miami-fl/
+Milwaukee,WI,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",95,165,USD,per visit,planning estimate,2026-11-08T12:46:57.189841+00:00,https://costinusa.com/house-cleaning/milwaukee-wi/
+Milwaukee,WI,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",140,240,USD,per visit,planning estimate,2026-11-08T12:46:57.189841+00:00,https://costinusa.com/house-cleaning/milwaukee-wi/
+Milwaukee,WI,house-cleaning,hourly-independent,Independent cleaner,20,40,USD,per cleaner-hour,planning estimate,2026-11-08T12:46:57.189841+00:00,https://costinusa.com/house-cleaning/milwaukee-wi/
+Milwaukee,WI,house-cleaning,hourly-company,Cleaning company,40,75,USD,per cleaner-hour,planning estimate,2026-11-08T12:46:57.189841+00:00,https://costinusa.com/house-cleaning/milwaukee-wi/
+Minneapolis,MN,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,180,USD,per visit,planning estimate,2026-11-08T14:04:48.877153+00:00,https://costinusa.com/house-cleaning/minneapolis-mn/
+Minneapolis,MN,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,320,USD,per visit,planning estimate,2026-11-08T14:04:48.877153+00:00,https://costinusa.com/house-cleaning/minneapolis-mn/
+Minneapolis,MN,house-cleaning,hourly-independent,Independent cleaner,30,55,USD,per cleaner-hour,planning estimate,2026-11-08T14:04:48.877153+00:00,https://costinusa.com/house-cleaning/minneapolis-mn/
+Minneapolis,MN,house-cleaning,hourly-company,Cleaning company,50,75,USD,per cleaner-hour,planning estimate,2026-11-08T14:04:48.877153+00:00,https://costinusa.com/house-cleaning/minneapolis-mn/
+Modesto,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,185,USD,per visit,planning estimate,2026-11-08T18:21:34.997116+00:00,https://costinusa.com/house-cleaning/modesto-ca/
+Modesto,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,300,USD,per visit,planning estimate,2026-11-08T18:21:34.997116+00:00,https://costinusa.com/house-cleaning/modesto-ca/
+Modesto,CA,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,per cleaner-hour,planning estimate,2026-11-08T18:21:34.997116+00:00,https://costinusa.com/house-cleaning/modesto-ca/
+Modesto,CA,house-cleaning,hourly-company,Cleaning company,40,75,USD,per cleaner-hour,planning estimate,2026-11-08T18:21:34.997116+00:00,https://costinusa.com/house-cleaning/modesto-ca/
+Moreno Valley,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",95,165,USD,per visit,planning estimate,2026-11-08T23:41:52.146335+00:00,https://costinusa.com/house-cleaning/moreno-valley-ca/
+Moreno Valley,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",140,250,USD,per visit,planning estimate,2026-11-08T23:41:52.146335+00:00,https://costinusa.com/house-cleaning/moreno-valley-ca/
+Moreno Valley,CA,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,per cleaner-hour,planning estimate,2026-11-08T23:41:52.146335+00:00,https://costinusa.com/house-cleaning/moreno-valley-ca/
+Moreno Valley,CA,house-cleaning,hourly-company,Cleaning company,45,85,USD,per cleaner-hour,planning estimate,2026-11-08T23:41:52.146335+00:00,https://costinusa.com/house-cleaning/moreno-valley-ca/
+Nashville,TN,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,160,USD,per visit,planning estimate,2026-11-08T10:18:36.167253+00:00,https://costinusa.com/house-cleaning/nashville-tn/
+Nashville,TN,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",175,290,USD,per visit,planning estimate,2026-11-08T10:18:36.167253+00:00,https://costinusa.com/house-cleaning/nashville-tn/
+Nashville,TN,house-cleaning,hourly-independent,Independent cleaner,25,45,USD,per cleaner-hour,planning estimate,2026-11-08T10:18:36.167253+00:00,https://costinusa.com/house-cleaning/nashville-tn/
+Nashville,TN,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T10:18:36.167253+00:00,https://costinusa.com/house-cleaning/nashville-tn/
+New Orleans,LA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,160,USD,per visit,planning estimate,2026-11-08T14:44:59.735065+00:00,https://costinusa.com/house-cleaning/new-orleans-la/
+New Orleans,LA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,310,USD,per visit,planning estimate,2026-11-08T14:44:59.735065+00:00,https://costinusa.com/house-cleaning/new-orleans-la/
+New Orleans,LA,house-cleaning,hourly-independent,Independent cleaner,19,35,USD,per cleaner-hour,planning estimate,2026-11-08T14:44:59.735065+00:00,https://costinusa.com/house-cleaning/new-orleans-la/
+New Orleans,LA,house-cleaning,hourly-company,Cleaning company,35,70,USD,per cleaner-hour,planning estimate,2026-11-08T14:44:59.735065+00:00,https://costinusa.com/house-cleaning/new-orleans-la/
+New York City,NY,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",120,195,USD,per clean,planning estimate,2026-11-08T10:53:52.931785+00:00,https://costinusa.com/house-cleaning/new-york-city-ny/
+New York City,NY,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",210,340,USD,per clean,planning estimate,2026-11-08T10:53:52.931785+00:00,https://costinusa.com/house-cleaning/new-york-city-ny/
+New York City,NY,house-cleaning,hourly-independent,Independent cleaner,25,55,USD,per cleaner-hour,planning estimate,2026-11-08T10:53:52.931785+00:00,https://costinusa.com/house-cleaning/new-york-city-ny/
+New York City,NY,house-cleaning,hourly-company,Cleaning company,50,80,USD,per cleaner-hour,planning estimate,2026-11-08T10:53:52.931785+00:00,https://costinusa.com/house-cleaning/new-york-city-ny/
+Newark,NJ,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",95,165,USD,per visit,planning estimate,2026-11-08T15:55:05.510390+00:00,https://costinusa.com/house-cleaning/newark-nj/
+Newark,NJ,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",150,280,USD,per visit,planning estimate,2026-11-08T15:55:05.510390+00:00,https://costinusa.com/house-cleaning/newark-nj/
+Newark,NJ,house-cleaning,hourly-independent,Independent cleaner,22,38,USD,per cleaner-hour,planning estimate,2026-11-08T15:55:05.510390+00:00,https://costinusa.com/house-cleaning/newark-nj/
+Newark,NJ,house-cleaning,hourly-company,Cleaning company,50,90,USD,per cleaner-hour,planning estimate,2026-11-08T15:55:05.510390+00:00,https://costinusa.com/house-cleaning/newark-nj/
+Norfolk,VA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",100,170,USD,per visit,planning estimate,2026-11-08T17:07:35.080982+00:00,https://costinusa.com/house-cleaning/norfolk-va/
+Norfolk,VA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",160,260,USD,per visit,planning estimate,2026-11-08T17:07:35.080982+00:00,https://costinusa.com/house-cleaning/norfolk-va/
+Norfolk,VA,house-cleaning,hourly-independent,Independent cleaner,22,38,USD,per cleaner-hour,planning estimate,2026-11-08T17:07:35.080982+00:00,https://costinusa.com/house-cleaning/norfolk-va/
+Norfolk,VA,house-cleaning,hourly-company,Cleaning company,45,70,USD,per cleaner-hour,planning estimate,2026-11-08T17:07:35.080982+00:00,https://costinusa.com/house-cleaning/norfolk-va/
+Oakland,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",125,220,USD,per visit,planning estimate,2026-11-08T13:56:48.356960+00:00,https://costinusa.com/house-cleaning/oakland-ca/
+Oakland,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",210,360,USD,per visit,planning estimate,2026-11-08T13:56:48.356960+00:00,https://costinusa.com/house-cleaning/oakland-ca/
+Oakland,CA,house-cleaning,hourly-independent,Independent cleaner,28,50,USD,per cleaner-hour,planning estimate,2026-11-08T13:56:48.356960+00:00,https://costinusa.com/house-cleaning/oakland-ca/
+Oakland,CA,house-cleaning,hourly-company,Cleaning company,50,85,USD,per cleaner-hour,planning estimate,2026-11-08T13:56:48.356960+00:00,https://costinusa.com/house-cleaning/oakland-ca/
+Oklahoma City,OK,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,175,USD,per visit,planning estimate,2026-11-08T10:24:06.403891+00:00,https://costinusa.com/house-cleaning/oklahoma-city-ok/
+Oklahoma City,OK,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",150,250,USD,per visit,planning estimate,2026-11-08T10:24:06.403891+00:00,https://costinusa.com/house-cleaning/oklahoma-city-ok/
+Oklahoma City,OK,house-cleaning,hourly-independent,Independent cleaner,18,35,USD,per cleaner-hour,planning estimate,2026-11-08T10:24:06.403891+00:00,https://costinusa.com/house-cleaning/oklahoma-city-ok/
+Oklahoma City,OK,house-cleaning,hourly-company,Cleaning company,40,75,USD,per cleaner-hour,planning estimate,2026-11-08T10:24:06.403891+00:00,https://costinusa.com/house-cleaning/oklahoma-city-ok/
+Omaha,NE,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",80,140,USD,per visit,planning estimate,2026-11-08T13:11:50.210833+00:00,https://costinusa.com/house-cleaning/omaha-ne/
+Omaha,NE,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",130,210,USD,per visit,planning estimate,2026-11-08T13:11:50.210833+00:00,https://costinusa.com/house-cleaning/omaha-ne/
+Omaha,NE,house-cleaning,hourly-independent,Independent cleaner,22,40,USD,per cleaner-hour,planning estimate,2026-11-08T13:11:50.210833+00:00,https://costinusa.com/house-cleaning/omaha-ne/
+Omaha,NE,house-cleaning,hourly-company,Cleaning company,35,65,USD,per cleaner-hour,planning estimate,2026-11-08T13:11:50.210833+00:00,https://costinusa.com/house-cleaning/omaha-ne/
+Orlando,FL,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",100,170,USD,per visit,planning estimate,2026-11-08T15:03:46.002314+00:00,https://costinusa.com/house-cleaning/orlando-fl/
+Orlando,FL,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",130,240,USD,per visit,planning estimate,2026-11-08T15:03:46.002314+00:00,https://costinusa.com/house-cleaning/orlando-fl/
+Orlando,FL,house-cleaning,hourly-independent,Independent cleaner,20,32,USD,per cleaner-hour,planning estimate,2026-11-08T15:03:46.002314+00:00,https://costinusa.com/house-cleaning/orlando-fl/
+Orlando,FL,house-cleaning,hourly-company,Cleaning company,30,50,USD,per cleaner-hour,planning estimate,2026-11-08T15:03:46.002314+00:00,https://costinusa.com/house-cleaning/orlando-fl/
+Oxnard,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,180,USD,visit,planning estimate,2026-11-08T18:31:50.746598+00:00,https://costinusa.com/house-cleaning/oxnard-ca/
+Oxnard,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,310,USD,visit,planning estimate,2026-11-08T18:31:50.746598+00:00,https://costinusa.com/house-cleaning/oxnard-ca/
+Oxnard,CA,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,cleaner-hour,planning estimate,2026-11-08T18:31:50.746598+00:00,https://costinusa.com/house-cleaning/oxnard-ca/
+Oxnard,CA,house-cleaning,hourly-company,Cleaning company,45,70,USD,cleaner-hour,planning estimate,2026-11-08T18:31:50.746598+00:00,https://costinusa.com/house-cleaning/oxnard-ca/
+Paradise,NV,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,210,USD,per visit,planning estimate,2026-11-08T17:51:38.051305+00:00,https://costinusa.com/house-cleaning/paradise-nv/
+Paradise,NV,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,320,USD,per visit,planning estimate,2026-11-08T17:51:38.051305+00:00,https://costinusa.com/house-cleaning/paradise-nv/
+Paradise,NV,house-cleaning,hourly-independent,Independent cleaner,25,50,USD,per cleaner-hour,planning estimate,2026-11-08T17:51:38.051305+00:00,https://costinusa.com/house-cleaning/paradise-nv/
+Paradise,NV,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T17:51:38.051305+00:00,https://costinusa.com/house-cleaning/paradise-nv/
+Philadelphia,PA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",90,140,USD,per visit,planning estimate,2026-11-08T10:54:57.203820+00:00,https://costinusa.com/house-cleaning/philadelphia-pa/
+Philadelphia,PA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",150,220,USD,per visit,planning estimate,2026-11-08T10:54:57.203820+00:00,https://costinusa.com/house-cleaning/philadelphia-pa/
+Philadelphia,PA,house-cleaning,hourly-independent,Independent cleaner,22,40,USD,per cleaner-hour,planning estimate,2026-11-08T10:54:57.203820+00:00,https://costinusa.com/house-cleaning/philadelphia-pa/
+Philadelphia,PA,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T10:54:57.203820+00:00,https://costinusa.com/house-cleaning/philadelphia-pa/
+Phoenix,AZ,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",120,175,USD,per visit,planning estimate,2026-11-08T10:54:22.863690+00:00,https://costinusa.com/house-cleaning/phoenix-az/
+Phoenix,AZ,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",195,295,USD,per visit,planning estimate,2026-11-08T10:54:22.863690+00:00,https://costinusa.com/house-cleaning/phoenix-az/
+Phoenix,AZ,house-cleaning,hourly-independent,Independent cleaner,22,35,USD,per cleaner-hour,planning estimate,2026-11-08T10:54:22.863690+00:00,https://costinusa.com/house-cleaning/phoenix-az/
+Phoenix,AZ,house-cleaning,hourly-company,Cleaning company,45,65,USD,per cleaner-hour,planning estimate,2026-11-08T10:54:22.863690+00:00,https://costinusa.com/house-cleaning/phoenix-az/
+Plano,TX,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",103,160,USD,per visit,planning estimate,2026-11-08T15:52:00.314683+00:00,https://costinusa.com/house-cleaning/plano-tx/
+Plano,TX,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",154,260,USD,per visit,planning estimate,2026-11-08T15:52:00.314683+00:00,https://costinusa.com/house-cleaning/plano-tx/
+Plano,TX,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,per cleaner-hour,planning estimate,2026-11-08T15:52:00.314683+00:00,https://costinusa.com/house-cleaning/plano-tx/
+Plano,TX,house-cleaning,hourly-company,Cleaning company,40,65,USD,per cleaner-hour,planning estimate,2026-11-08T15:52:00.314683+00:00,https://costinusa.com/house-cleaning/plano-tx/
+Portland,OR,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,190,USD,per visit,planning estimate,2026-11-08T12:57:37.269583+00:00,https://costinusa.com/house-cleaning/portland-or/
+Portland,OR,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",160,280,USD,per visit,planning estimate,2026-11-08T12:57:37.269583+00:00,https://costinusa.com/house-cleaning/portland-or/
+Portland,OR,house-cleaning,hourly-independent,Independent cleaner,25,50,USD,per cleaner-hour,planning estimate,2026-11-08T12:57:37.269583+00:00,https://costinusa.com/house-cleaning/portland-or/
+Portland,OR,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T12:57:37.269583+00:00,https://costinusa.com/house-cleaning/portland-or/
+Queens,NY,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",135,215,USD,per visit,planning estimate,2026-11-08T10:54:10.984769+00:00,https://costinusa.com/house-cleaning/queens-ny/
+Queens,NY,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",240,410,USD,per visit,planning estimate,2026-11-08T10:54:10.984769+00:00,https://costinusa.com/house-cleaning/queens-ny/
+Queens,NY,house-cleaning,hourly-independent,Independent cleaner,25,50,USD,per cleaner-hour,planning estimate,2026-11-08T10:54:10.984769+00:00,https://costinusa.com/house-cleaning/queens-ny/
+Queens,NY,house-cleaning,hourly-company,Cleaning company,55,85,USD,per cleaner-hour,planning estimate,2026-11-08T10:54:10.984769+00:00,https://costinusa.com/house-cleaning/queens-ny/
+Raleigh,NC,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,175,USD,per visit,planning estimate,2026-11-08T22:55:29.505883+00:00,https://costinusa.com/house-cleaning/raleigh-nc/
+Raleigh,NC,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",150,230,USD,per visit,planning estimate,2026-11-08T22:55:29.505883+00:00,https://costinusa.com/house-cleaning/raleigh-nc/
+Raleigh,NC,house-cleaning,hourly-independent,Independent cleaner,22,40,USD,per cleaner-hour,planning estimate,2026-11-08T22:55:29.505883+00:00,https://costinusa.com/house-cleaning/raleigh-nc/
+Raleigh,NC,house-cleaning,hourly-company,Cleaning company,40,75,USD,per cleaner-hour,planning estimate,2026-11-08T22:55:29.505883+00:00,https://costinusa.com/house-cleaning/raleigh-nc/
+Richmond,VA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",95,155,USD,per visit,planning estimate,2026-11-08T17:48:57.851890+00:00,https://costinusa.com/house-cleaning/richmond-va/
+Richmond,VA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,300,USD,per visit,planning estimate,2026-11-08T17:48:57.851890+00:00,https://costinusa.com/house-cleaning/richmond-va/
+Richmond,VA,house-cleaning,hourly-independent,Independent cleaner,20,40,USD,per cleaner-hour,planning estimate,2026-11-08T17:48:57.851890+00:00,https://costinusa.com/house-cleaning/richmond-va/
+Richmond,VA,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T17:48:57.851890+00:00,https://costinusa.com/house-cleaning/richmond-va/
+Riverside,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,190,USD,per visit,planning estimate,2026-11-09T01:37:36.670303+00:00,https://costinusa.com/house-cleaning/riverside-ca/
+Riverside,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,310,USD,per visit,planning estimate,2026-11-09T01:37:36.670303+00:00,https://costinusa.com/house-cleaning/riverside-ca/
+Riverside,CA,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,per cleaner-hour,planning estimate,2026-11-09T01:37:36.670303+00:00,https://costinusa.com/house-cleaning/riverside-ca/
+Riverside,CA,house-cleaning,hourly-company,Cleaning company,38,68,USD,per cleaner-hour,planning estimate,2026-11-09T01:37:36.670303+00:00,https://costinusa.com/house-cleaning/riverside-ca/
+Rochester,NY,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",100,170,USD,per visit,planning estimate,2026-11-08T18:23:35.183412+00:00,https://costinusa.com/house-cleaning/rochester-ny/
+Rochester,NY,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",160,250,USD,per visit,planning estimate,2026-11-08T18:23:35.183412+00:00,https://costinusa.com/house-cleaning/rochester-ny/
+Rochester,NY,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,per cleaner-hour,planning estimate,2026-11-08T18:23:35.183412+00:00,https://costinusa.com/house-cleaning/rochester-ny/
+Rochester,NY,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T18:23:35.183412+00:00,https://costinusa.com/house-cleaning/rochester-ny/
+Sacramento,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",150,217,USD,per visit,planning estimate,2026-11-08T11:09:09.229457+00:00,https://costinusa.com/house-cleaning/sacramento-ca/
+Sacramento,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",202,290,USD,per visit,planning estimate,2026-11-08T11:09:09.229457+00:00,https://costinusa.com/house-cleaning/sacramento-ca/
+Sacramento,CA,house-cleaning,hourly-independent,Independent cleaner,23,45,USD,per cleaner-hour,planning estimate,2026-11-08T11:09:09.229457+00:00,https://costinusa.com/house-cleaning/sacramento-ca/
+Sacramento,CA,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T11:09:09.229457+00:00,https://costinusa.com/house-cleaning/sacramento-ca/
+Salt Lake City,UT,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",140,225,USD,visit,planning estimate,2026-11-08T17:59:28.650090+00:00,https://costinusa.com/house-cleaning/salt-lake-city-ut/
+Salt Lake City,UT,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",220,320,USD,visit,planning estimate,2026-11-08T17:59:28.650090+00:00,https://costinusa.com/house-cleaning/salt-lake-city-ut/
+Salt Lake City,UT,house-cleaning,hourly-independent,Independent cleaner,23,35,USD,cleaner-hour,planning estimate,2026-11-08T17:59:28.650090+00:00,https://costinusa.com/house-cleaning/salt-lake-city-ut/
+Salt Lake City,UT,house-cleaning,hourly-company,Cleaning company,45,70,USD,cleaner-hour,planning estimate,2026-11-08T17:59:28.650090+00:00,https://costinusa.com/house-cleaning/salt-lake-city-ut/
+San Antonio,TX,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,160,USD,per visit,planning estimate,2026-11-08T11:05:11.011402+00:00,https://costinusa.com/house-cleaning/san-antonio-tx/
+San Antonio,TX,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",160,260,USD,per visit,planning estimate,2026-11-08T11:05:11.011402+00:00,https://costinusa.com/house-cleaning/san-antonio-tx/
+San Antonio,TX,house-cleaning,hourly-independent,Independent cleaner,25,50,USD,per cleaner-hour,planning estimate,2026-11-08T11:05:11.011402+00:00,https://costinusa.com/house-cleaning/san-antonio-tx/
+San Antonio,TX,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T11:05:11.011402+00:00,https://costinusa.com/house-cleaning/san-antonio-tx/
+San Bernardino,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,190,USD,per visit,planning estimate,2026-11-08T22:55:29.581955+00:00,https://costinusa.com/house-cleaning/san-bernardino-ca/
+San Bernardino,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,310,USD,per visit,planning estimate,2026-11-08T22:55:29.581955+00:00,https://costinusa.com/house-cleaning/san-bernardino-ca/
+San Bernardino,CA,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,per cleaner-hour,planning estimate,2026-11-08T22:55:29.581955+00:00,https://costinusa.com/house-cleaning/san-bernardino-ca/
+San Bernardino,CA,house-cleaning,hourly-company,Cleaning company,40,75,USD,per cleaner-hour,planning estimate,2026-11-08T22:55:29.581955+00:00,https://costinusa.com/house-cleaning/san-bernardino-ca/
+San Diego,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",125,195,USD,per visit,planning estimate,2026-11-08T05:11:34.439052+00:00,https://costinusa.com/house-cleaning/san-diego-ca/
+San Diego,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",190,310,USD,per visit,planning estimate,2026-11-08T05:11:34.439052+00:00,https://costinusa.com/house-cleaning/san-diego-ca/
+San Diego,CA,house-cleaning,hourly-independent,Independent cleaner,25,45,USD,per cleaner-hour,planning estimate,2026-11-08T05:11:34.439052+00:00,https://costinusa.com/house-cleaning/san-diego-ca/
+San Diego,CA,house-cleaning,hourly-company,Cleaning company,50,75,USD,per cleaner-hour,planning estimate,2026-11-08T05:11:34.439052+00:00,https://costinusa.com/house-cleaning/san-diego-ca/
+San Francisco,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",120,180,USD,per visit,planning estimate,2026-11-08T10:45:20.872331+00:00,https://costinusa.com/house-cleaning/san-francisco-ca/
+San Francisco,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",210,320,USD,per visit,planning estimate,2026-11-08T10:45:20.872331+00:00,https://costinusa.com/house-cleaning/san-francisco-ca/
+San Francisco,CA,house-cleaning,hourly-independent,Independent cleaner,30,55,USD,per cleaner-hour,planning estimate,2026-11-08T10:45:20.872331+00:00,https://costinusa.com/house-cleaning/san-francisco-ca/
+San Francisco,CA,house-cleaning,hourly-company,Cleaning company,55,85,USD,per cleaner-hour,planning estimate,2026-11-08T10:45:20.872331+00:00,https://costinusa.com/house-cleaning/san-francisco-ca/
+San Jose,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",130,220,USD,per visit,planning estimate,2026-11-08T10:44:28.283899+00:00,https://costinusa.com/house-cleaning/san-jose-ca/
+San Jose,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",240,380,USD,per visit,planning estimate,2026-11-08T10:44:28.283899+00:00,https://costinusa.com/house-cleaning/san-jose-ca/
+San Jose,CA,house-cleaning,hourly-independent,Independent cleaner,30,60,USD,per cleaner-hour,planning estimate,2026-11-08T10:44:28.283899+00:00,https://costinusa.com/house-cleaning/san-jose-ca/
+San Jose,CA,house-cleaning,hourly-company,Cleaning company,55,90,USD,per cleaner-hour,planning estimate,2026-11-08T10:44:28.283899+00:00,https://costinusa.com/house-cleaning/san-jose-ca/
+Scottsdale,AZ,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",95,170,USD,per visit,planning estimate,2026-11-08T17:17:50.751653+00:00,https://costinusa.com/house-cleaning/scottsdale-az/
+Scottsdale,AZ,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",140,260,USD,per visit,planning estimate,2026-11-08T17:17:50.751653+00:00,https://costinusa.com/house-cleaning/scottsdale-az/
+Scottsdale,AZ,house-cleaning,hourly-independent,Independent cleaner,23,38,USD,per cleaner-hour,planning estimate,2026-11-08T17:17:50.751653+00:00,https://costinusa.com/house-cleaning/scottsdale-az/
+Scottsdale,AZ,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T17:17:50.751653+00:00,https://costinusa.com/house-cleaning/scottsdale-az/
+Seattle,WA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",130,210,USD,per visit,planning estimate,2026-11-08T10:07:10.656142+00:00,https://costinusa.com/house-cleaning/seattle-wa/
+Seattle,WA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",210,350,USD,per visit,planning estimate,2026-11-08T10:07:10.656142+00:00,https://costinusa.com/house-cleaning/seattle-wa/
+Seattle,WA,house-cleaning,hourly-independent,Independent cleaner,45,65,USD,per cleaner-hour,planning estimate,2026-11-08T10:07:10.656142+00:00,https://costinusa.com/house-cleaning/seattle-wa/
+Seattle,WA,house-cleaning,hourly-company,Cleaning company,75,125,USD,per cleaner-hour,planning estimate,2026-11-08T10:07:10.656142+00:00,https://costinusa.com/house-cleaning/seattle-wa/
+Spokane,WA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",120,180,USD,per visit,planning estimate,2026-11-08T17:40:22.321881+00:00,https://costinusa.com/house-cleaning/spokane-wa/
+Spokane,WA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",190,310,USD,per visit,planning estimate,2026-11-08T17:40:22.321881+00:00,https://costinusa.com/house-cleaning/spokane-wa/
+Spokane,WA,house-cleaning,hourly-independent,Independent cleaner,25,48,USD,per cleaner-hour,planning estimate,2026-11-08T17:40:22.321881+00:00,https://costinusa.com/house-cleaning/spokane-wa/
+Spokane,WA,house-cleaning,hourly-company,Cleaning company,49,82,USD,per cleaner-hour,planning estimate,2026-11-08T17:40:22.321881+00:00,https://costinusa.com/house-cleaning/spokane-wa/
+St. Louis,MO,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",100,170,USD,per visit,planning estimate,2026-11-08T16:02:25.989558+00:00,https://costinusa.com/house-cleaning/st-louis-mo/
+St. Louis,MO,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,290,USD,per visit,planning estimate,2026-11-08T16:02:25.989558+00:00,https://costinusa.com/house-cleaning/st-louis-mo/
+St. Louis,MO,house-cleaning,hourly-independent,Independent cleaner,22,38,USD,per cleaner-hour,planning estimate,2026-11-08T16:02:25.989558+00:00,https://costinusa.com/house-cleaning/st-louis-mo/
+St. Louis,MO,house-cleaning,hourly-company,Cleaning company,40,68,USD,per cleaner-hour,planning estimate,2026-11-08T16:02:25.989558+00:00,https://costinusa.com/house-cleaning/st-louis-mo/
+Staten Island,NY,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",120,210,USD,per visit,planning estimate,2026-11-08T13:35:11.058318+00:00,https://costinusa.com/house-cleaning/staten-island-ny/
+Staten Island,NY,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",190,360,USD,per visit,planning estimate,2026-11-08T13:35:11.058318+00:00,https://costinusa.com/house-cleaning/staten-island-ny/
+Staten Island,NY,house-cleaning,hourly-independent,Independent cleaner,22,35,USD,per cleaner-hour,planning estimate,2026-11-08T13:35:11.058318+00:00,https://costinusa.com/house-cleaning/staten-island-ny/
+Staten Island,NY,house-cleaning,hourly-company,Cleaning company,50,80,USD,per cleaner-hour,planning estimate,2026-11-08T13:35:11.058318+00:00,https://costinusa.com/house-cleaning/staten-island-ny/
+Stockton,CA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,185,USD,per visit,planning estimate,2026-11-08T15:28:12.487104+00:00,https://costinusa.com/house-cleaning/stockton-ca/
+Stockton,CA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",180,285,USD,per visit,planning estimate,2026-11-08T15:28:12.487104+00:00,https://costinusa.com/house-cleaning/stockton-ca/
+Stockton,CA,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,per cleaner-hour,planning estimate,2026-11-08T15:28:12.487104+00:00,https://costinusa.com/house-cleaning/stockton-ca/
+Stockton,CA,house-cleaning,hourly-company,Cleaning company,40,75,USD,per cleaner-hour,planning estimate,2026-11-08T15:28:12.487104+00:00,https://costinusa.com/house-cleaning/stockton-ca/
+Tallahassee,FL,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",95,165,USD,$/visit,planning estimate,2026-11-08T19:00:12.579660+00:00,https://costinusa.com/house-cleaning/tallahassee-fl/
+Tallahassee,FL,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",140,240,USD,$/visit,planning estimate,2026-11-08T19:00:12.579660+00:00,https://costinusa.com/house-cleaning/tallahassee-fl/
+Tallahassee,FL,house-cleaning,hourly-independent,Independent cleaner,20,28,USD,$/cleaner-hour,planning estimate,2026-11-08T19:00:12.579660+00:00,https://costinusa.com/house-cleaning/tallahassee-fl/
+Tallahassee,FL,house-cleaning,hourly-company,Cleaning company,45,60,USD,$/cleaner-hour,planning estimate,2026-11-08T19:00:12.579660+00:00,https://costinusa.com/house-cleaning/tallahassee-fl/
+Tampa,FL,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",85,145,USD,per clean,planning estimate,2026-11-08T13:58:28.511472+00:00,https://costinusa.com/house-cleaning/tampa-fl/
+Tampa,FL,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",130,225,USD,per clean,planning estimate,2026-11-08T13:58:28.511472+00:00,https://costinusa.com/house-cleaning/tampa-fl/
+Tampa,FL,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,per cleaner-hour,planning estimate,2026-11-08T13:58:28.511472+00:00,https://costinusa.com/house-cleaning/tampa-fl/
+Tampa,FL,house-cleaning,hourly-company,Cleaning company,45,65,USD,per cleaner-hour,planning estimate,2026-11-08T13:58:28.511472+00:00,https://costinusa.com/house-cleaning/tampa-fl/
+The Bronx,NY,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",130,220,USD,per visit,planning estimate,2026-11-08T10:56:21.308052+00:00,https://costinusa.com/house-cleaning/the-bronx-ny/
+The Bronx,NY,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",210,320,USD,per visit,planning estimate,2026-11-08T10:56:21.308052+00:00,https://costinusa.com/house-cleaning/the-bronx-ny/
+The Bronx,NY,house-cleaning,hourly-independent,Independent cleaner,22,38,USD,per cleaner-hour,planning estimate,2026-11-08T10:56:21.308052+00:00,https://costinusa.com/house-cleaning/the-bronx-ny/
+The Bronx,NY,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T10:56:21.308052+00:00,https://costinusa.com/house-cleaning/the-bronx-ny/
+Tucson,AZ,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",95,150,USD,per clean,planning estimate,2026-11-08T11:01:43.185129+00:00,https://costinusa.com/house-cleaning/tucson-az/
+Tucson,AZ,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",170,280,USD,per clean,planning estimate,2026-11-08T11:01:43.185129+00:00,https://costinusa.com/house-cleaning/tucson-az/
+Tucson,AZ,house-cleaning,hourly-independent,Independent cleaner,25,45,USD,per cleaner-hour,planning estimate,2026-11-08T11:01:43.185129+00:00,https://costinusa.com/house-cleaning/tucson-az/
+Tucson,AZ,house-cleaning,hourly-company,Cleaning company,50,75,USD,per cleaner-hour,planning estimate,2026-11-08T11:01:43.185129+00:00,https://costinusa.com/house-cleaning/tucson-az/
+Tulsa,OK,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",85,135,USD,visit,planning estimate,2026-11-08T14:00:03.657866+00:00,https://costinusa.com/house-cleaning/tulsa-ok/
+Tulsa,OK,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",170,265,USD,visit,planning estimate,2026-11-08T14:00:03.657866+00:00,https://costinusa.com/house-cleaning/tulsa-ok/
+Tulsa,OK,house-cleaning,hourly-independent,Independent cleaner,17,28,USD,cleaner-hour,planning estimate,2026-11-08T14:00:03.657866+00:00,https://costinusa.com/house-cleaning/tulsa-ok/
+Tulsa,OK,house-cleaning,hourly-company,Cleaning company,40,60,USD,cleaner-hour,planning estimate,2026-11-08T14:00:03.657866+00:00,https://costinusa.com/house-cleaning/tulsa-ok/
+Virginia Beach,VA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",120,210,USD,per visit,planning estimate,2026-11-08T13:49:38.102993+00:00,https://costinusa.com/house-cleaning/virginia-beach-va/
+Virginia Beach,VA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",185,310,USD,per visit,planning estimate,2026-11-08T13:49:38.102993+00:00,https://costinusa.com/house-cleaning/virginia-beach-va/
+Virginia Beach,VA,house-cleaning,hourly-independent,Independent cleaner,18,30,USD,per cleaner-hour,planning estimate,2026-11-08T13:49:38.102993+00:00,https://costinusa.com/house-cleaning/virginia-beach-va/
+Virginia Beach,VA,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T13:49:38.102993+00:00,https://costinusa.com/house-cleaning/virginia-beach-va/
+Washington,DC,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",120,180,USD,per visit,planning estimate,2026-11-08T10:15:56.011852+00:00,https://costinusa.com/house-cleaning/washington-dc/
+Washington,DC,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",220,330,USD,per visit,planning estimate,2026-11-08T10:15:56.011852+00:00,https://costinusa.com/house-cleaning/washington-dc/
+Washington,DC,house-cleaning,hourly-independent,Independent cleaner,25,45,USD,per cleaner-hour,planning estimate,2026-11-08T10:15:56.011852+00:00,https://costinusa.com/house-cleaning/washington-dc/
+Washington,DC,house-cleaning,hourly-company,Cleaning company,50,85,USD,per cleaner-hour,planning estimate,2026-11-08T10:15:56.011852+00:00,https://costinusa.com/house-cleaning/washington-dc/
+Wichita,KS,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",90,140,USD,per visit,planning estimate,2026-11-08T14:07:29.035971+00:00,https://costinusa.com/house-cleaning/wichita-ks/
+Wichita,KS,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",140,220,USD,per visit,planning estimate,2026-11-08T14:07:29.035971+00:00,https://costinusa.com/house-cleaning/wichita-ks/
+Wichita,KS,house-cleaning,hourly-independent,Independent cleaner,20,38,USD,per cleaner-hour,planning estimate,2026-11-08T14:07:29.035971+00:00,https://costinusa.com/house-cleaning/wichita-ks/
+Wichita,KS,house-cleaning,hourly-company,Cleaning company,35,60,USD,per cleaner-hour,planning estimate,2026-11-08T14:07:29.035971+00:00,https://costinusa.com/house-cleaning/wichita-ks/
+Winston-Salem,NC,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",75,120,USD,per visit,planning estimate,2026-11-08T16:58:04.510665+00:00,https://costinusa.com/house-cleaning/winston-salem-nc/
+Winston-Salem,NC,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",130,220,USD,per visit,planning estimate,2026-11-08T16:58:04.510665+00:00,https://costinusa.com/house-cleaning/winston-salem-nc/
+Winston-Salem,NC,house-cleaning,hourly-independent,Independent cleaner,18,32,USD,per cleaner-hour,planning estimate,2026-11-08T16:58:04.510665+00:00,https://costinusa.com/house-cleaning/winston-salem-nc/
+Winston-Salem,NC,house-cleaning,hourly-company,Cleaning company,35,60,USD,per cleaner-hour,planning estimate,2026-11-08T16:58:04.510665+00:00,https://costinusa.com/house-cleaning/winston-salem-nc/
+Worcester,MA,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",95,165,USD,$/visit,planning estimate,2026-11-08T18:38:51.218399+00:00,https://costinusa.com/house-cleaning/worcester-ma/
+Worcester,MA,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",150,270,USD,$/visit,planning estimate,2026-11-08T18:38:51.218399+00:00,https://costinusa.com/house-cleaning/worcester-ma/
+Worcester,MA,house-cleaning,hourly-independent,Independent cleaner,20,35,USD,$/cleaner-hour,planning estimate,2026-11-08T18:38:51.218399+00:00,https://costinusa.com/house-cleaning/worcester-ma/
+Worcester,MA,house-cleaning,hourly-company,Cleaning company,45,70,USD,$/cleaner-hour,planning estimate,2026-11-08T18:38:51.218399+00:00,https://costinusa.com/house-cleaning/worcester-ma/
+Yonkers,NY,house-cleaning,layout-1b1b,"1-bed, 1-bath standard visit",110,180,USD,per clean,planning estimate,2026-11-08T22:34:50.529108+00:00,https://costinusa.com/house-cleaning/yonkers-ny/
+Yonkers,NY,house-cleaning,layout-3b2b,"3-bed, 2-bath standard visit",160,280,USD,per clean,planning estimate,2026-11-08T22:34:50.529108+00:00,https://costinusa.com/house-cleaning/yonkers-ny/
+Yonkers,NY,house-cleaning,hourly-independent,Independent cleaner,22,35,USD,per cleaner-hour,planning estimate,2026-11-08T22:34:50.529108+00:00,https://costinusa.com/house-cleaning/yonkers-ny/
+Yonkers,NY,house-cleaning,hourly-company,Cleaning company,45,75,USD,per cleaner-hour,planning estimate,2026-11-08T22:34:50.529108+00:00,https://costinusa.com/house-cleaning/yonkers-ny/

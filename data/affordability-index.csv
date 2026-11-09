@@ -1,0 +1,100 @@
+city,state,service,cost_midpoint_usd,annual_income_usd,income_share_percent,monthly_rent_usd,rent_share_percent,guide_url
+Albuquerque,NM,house-cleaning,225.0,76673,0.2934540190158204,1308,17.201834862385322,https://costinusa.com/house-cleaning/albuquerque-nm/
+Anaheim,CA,house-cleaning,240.0,103637,0.2315775254011598,2295,10.457516339869281,https://costinusa.com/house-cleaning/anaheim-ca/
+Anchorage,AK,house-cleaning,240.0,101717,0.23594875979433133,1582,15.170670037926675,https://costinusa.com/house-cleaning/anchorage-ak/
+Arlington,TX,house-cleaning,195.0,79004,0.24682294567363677,1592,12.248743718592964,https://costinusa.com/house-cleaning/arlington-tx/
+Arlington,VA,house-cleaning,285.0,144789,0.1968381575948449,2496,11.41826923076923,https://costinusa.com/house-cleaning/arlington-va/
+Atlanta,GA,house-cleaning,222.5,92217,0.241278723012026,1818,12.238723872387238,https://costinusa.com/house-cleaning/atlanta-ga/
+Aurora,CO,house-cleaning,195.0,95884,0.20337073964373617,1831,10.649918077553249,https://costinusa.com/house-cleaning/aurora-co/
+Aurora,IL,house-cleaning,205.0,96679,0.21204191189399973,1801,11.382565241532483,https://costinusa.com/house-cleaning/aurora-il/
+Bakersfield,CA,house-cleaning,190.0,85148,0.22314088410767136,1661,11.43889223359422,https://costinusa.com/house-cleaning/bakersfield-ca/
+Baltimore,MD,house-cleaning,227.5,63058,0.36077896539693616,1432,15.886871508379889,https://costinusa.com/house-cleaning/baltimore-md/
+Boston,MA,house-cleaning,240.0,101797,0.23576333290764953,2351,10.208421948107189,https://costinusa.com/house-cleaning/boston-ma/
+Buffalo,NY,house-cleaning,245.0,53292,0.4597312917511071,1162,21.08433734939759,https://costinusa.com/house-cleaning/buffalo-ny/
+Chandler,AZ,house-cleaning,230.0,116982,0.1966114444957344,1991,11.551983927674536,https://costinusa.com/house-cleaning/chandler-az/
+Charlotte,NC,house-cleaning,250.0,90154,0.2773032810524214,1769,14.132278123233466,https://costinusa.com/house-cleaning/charlotte-nc/
+Chesapeake,VA,house-cleaning,195.0,98104,0.19876865367365246,1654,11.789600967351875,https://costinusa.com/house-cleaning/chesapeake-va/
+Chicago,IL,house-cleaning,240.0,82429,0.29115966468111953,1644,14.598540145985401,https://costinusa.com/house-cleaning/chicago-il/
+Chula Vista,CA,house-cleaning,230.0,107013,0.2149271583826264,2394,9.60735171261487,https://costinusa.com/house-cleaning/chula-vista-ca/
+Cincinnati,OH,house-cleaning,290.0,57917,0.5007165426386035,1131,25.641025641025642,https://costinusa.com/house-cleaning/cincinnati-oh/
+Cleveland,OH,house-cleaning,220.0,51974,0.4232885673606034,1049,20.972354623450904,https://costinusa.com/house-cleaning/cleveland-oh/
+Colorado Springs,CO,house-cleaning,265.0,92770,0.2856526894470195,1691,15.671200473092844,https://costinusa.com/house-cleaning/colorado-springs-co/
+Columbus,GA,house-cleaning,170.0,57674,0.29476020390470575,1175,14.46808510638298,https://costinusa.com/house-cleaning/columbus-ga/
+Columbus,OH,house-cleaning,217.5,68993,0.3152493731248098,1468,14.816076294277929,https://costinusa.com/house-cleaning/columbus-oh/
+Corpus Christi,TX,house-cleaning,170.0,74717,0.2275251950693952,1380,12.318840579710145,https://costinusa.com/house-cleaning/corpus-christi-tx/
+Dallas,TX,house-cleaning,210.0,73383,0.2861698213482687,1623,12.939001848428836,https://costinusa.com/house-cleaning/dallas-tx/
+Denver,CO,house-cleaning,245.0,93850,0.2610548748002131,1890,12.962962962962964,https://costinusa.com/house-cleaning/denver-co/
+Des Moines,IA,house-cleaning,225.0,67205,0.3347965181162116,1114,20.197486535008977,https://costinusa.com/house-cleaning/des-moines-ia/
+Detroit,MI,house-cleaning,175.0,40888,0.4279984347485815,1163,15.047291487532243,https://costinusa.com/house-cleaning/detroit-mi/
+El Paso,TX,house-cleaning,215.0,60520,0.35525446133509586,1139,18.876207199297628,https://costinusa.com/house-cleaning/el-paso-tx/
+Fayetteville,NC,house-cleaning,195.0,59794,0.32611967755962135,1418,13.75176304654443,https://costinusa.com/house-cleaning/fayetteville-nc/
+Fontana,CA,house-cleaning,212.5,107461,0.1977461590716632,1957,10.858456821665815,https://costinusa.com/house-cleaning/fontana-ca/
+Fort Wayne,IN,house-cleaning,225.0,61934,0.36328995382181034,1129,19.929140832595216,https://costinusa.com/house-cleaning/fort-wayne-in/
+Fort Worth,TX,house-cleaning,197.5,85437,0.231164483771668,1726,11.442641946697567,https://costinusa.com/house-cleaning/fort-worth-tx/
+Fremont,CA,house-cleaning,290.0,185042,0.1567211768139125,2922,9.924709103353868,https://costinusa.com/house-cleaning/fremont-ca/
+Fresno,CA,house-cleaning,295.0,71822,0.41073765698532483,1624,18.165024630541872,https://costinusa.com/house-cleaning/fresno-ca/
+Garland,TX,house-cleaning,205.0,67135,0.30535488195427124,1699,12.065921130076516,https://costinusa.com/house-cleaning/garland-tx/
+Glendale,AZ,house-cleaning,270.0,76407,0.35337076445875376,1684,16.033254156769598,https://costinusa.com/house-cleaning/glendale-az/
+Glendale,CA,house-cleaning,194.5,81863,0.23759207456360015,2328,8.354810996563574,https://costinusa.com/house-cleaning/glendale-ca/
+Greensboro,NC,house-cleaning,220.0,69653,0.3158514349704966,1333,16.504126031507877,https://costinusa.com/house-cleaning/greensboro-nc/
+Henderson,NV,house-cleaning,265.0,98700,0.2684903748733536,1873,14.14842498665243,https://costinusa.com/house-cleaning/henderson-nv/
+Hialeah,FL,house-cleaning,225.0,60229,0.3735741918344983,2022,11.127596439169139,https://costinusa.com/house-cleaning/hialeah-fl/
+Houston,TX,house-cleaning,270.0,69942,0.3860341425752767,1469,18.37985023825732,https://costinusa.com/house-cleaning/houston-tx/
+Huntington Beach,CA,house-cleaning,325.0,128987,0.25196337615418607,2629,12.362114872575123,https://costinusa.com/house-cleaning/huntington-beach-ca/
+Huntsville,AL,house-cleaning,190.0,83850,0.22659511031604054,1313,14.47067783701447,https://costinusa.com/house-cleaning/huntsville-al/
+Irvine,CA,house-cleaning,265.0,139099,0.1905117937584023,3118,8.49903784477229,https://costinusa.com/house-cleaning/irvine-ca/
+Irving,TX,house-cleaning,227.5,85965,0.2646425870994009,1691,13.453577764636309,https://costinusa.com/house-cleaning/irving-tx/
+Jacksonville,FL,house-cleaning,222.5,73336,0.30339805825242716,1581,14.07337128399747,https://costinusa.com/house-cleaning/jacksonville-fl/
+Jersey City,NJ,house-cleaning,225.0,110258,0.20406682508298718,2292,9.81675392670157,https://costinusa.com/house-cleaning/jersey-city-nj/
+Kansas City,MO,house-cleaning,185.0,75281,0.2457459385502318,1383,13.376717281272596,https://costinusa.com/house-cleaning/kansas-city-mo/
+Las Vegas,NV,house-cleaning,185.0,84288,0.21948557327258922,1697,10.901591043017088,https://costinusa.com/house-cleaning/las-vegas-nv/
+Little Rock,AR,house-cleaning,190.0,64031,0.29673127079071077,1243,15.285599356395817,https://costinusa.com/house-cleaning/little-rock-ar/
+Long Beach,CA,house-cleaning,245.0,90993,0.2692514808831449,1936,12.65495867768595,https://costinusa.com/house-cleaning/long-beach-ca/
+Los Angeles,CA,house-cleaning,245.0,83226,0.2943791603585418,2001,12.243878060969514,https://costinusa.com/house-cleaning/los-angeles-ca/
+Madison,WI,house-cleaning,275.0,81973,0.33547631537213474,1618,16.996291718170582,https://costinusa.com/house-cleaning/madison-wi/
+Memphis,TN,house-cleaning,170.0,57750,0.2943722943722944,1241,13.698630136986301,https://costinusa.com/house-cleaning/memphis-tn/
+Mesa,AZ,house-cleaning,200.0,86111,0.2322583642043409,1737,11.514104778353483,https://costinusa.com/house-cleaning/mesa-az/
+Miami,FL,house-cleaning,202.5,71368,0.2837406120390091,2102,9.633682207421502,https://costinusa.com/house-cleaning/miami-fl/
+Milwaukee,WI,house-cleaning,190.0,56565,0.33589675594448865,1157,16.421780466724286,https://costinusa.com/house-cleaning/milwaukee-wi/
+Minneapolis,MN,house-cleaning,250.0,78184,0.3197585183669293,1398,17.8826895565093,https://costinusa.com/house-cleaning/minneapolis-mn/
+Modesto,CA,house-cleaning,240.0,79133,0.30328687146955124,1829,13.121924548933844,https://costinusa.com/house-cleaning/modesto-ca/
+Moreno Valley,CA,house-cleaning,195.0,95797,0.20355543493011263,2194,8.887876025524157,https://costinusa.com/house-cleaning/moreno-valley-ca/
+New Orleans,LA,house-cleaning,245.0,66464,0.3686206066441984,1406,17.425320056899004,https://costinusa.com/house-cleaning/new-orleans-la/
+Newark,NJ,house-cleaning,215.0,58081,0.37017268986415525,1467,14.655760054533062,https://costinusa.com/house-cleaning/newark-nj/
+Norfolk,VA,house-cleaning,210.0,72596,0.28927213620585157,1462,14.36388508891929,https://costinusa.com/house-cleaning/norfolk-va/
+Oakland,CA,house-cleaning,285.0,99437,0.28661363476371976,2004,14.221556886227544,https://costinusa.com/house-cleaning/oakland-ca/
+Oklahoma City,OK,house-cleaning,200.0,71231,0.2807766281534725,1248,16.025641025641026,https://costinusa.com/house-cleaning/oklahoma-city-ok/
+Omaha,NE,house-cleaning,170.0,75989,0.22371659055915988,1269,13.396375098502759,https://costinusa.com/house-cleaning/omaha-ne/
+Orlando,FL,house-cleaning,185.0,78668,0.23516550566939542,1839,10.059815116911365,https://costinusa.com/house-cleaning/orlando-fl/
+Oxnard,CA,house-cleaning,245.0,98467,0.24881432358048888,2126,11.523988711194733,https://costinusa.com/house-cleaning/oxnard-ca/
+Paradise,NV,house-cleaning,250.0,60566,0.41277284284912324,1389,17.998560115190784,https://costinusa.com/house-cleaning/paradise-nv/
+Philadelphia,PA,house-cleaning,185.0,67398,0.27448885723611977,1513,12.227362855254462,https://costinusa.com/house-cleaning/philadelphia-pa/
+Phoenix,AZ,house-cleaning,245.0,84959,0.28837439235395895,1733,14.13733410271206,https://costinusa.com/house-cleaning/phoenix-az/
+Plano,TX,house-cleaning,207.0,114117,0.18139278109308868,1922,10.77003121748179,https://costinusa.com/house-cleaning/plano-tx/
+Portland,OR,house-cleaning,220.0,84916,0.2590795609779076,1659,13.261000602772755,https://costinusa.com/house-cleaning/portland-or/
+Raleigh,NC,house-cleaning,190.0,87591,0.21691726318914042,1671,11.370436864153202,https://costinusa.com/house-cleaning/raleigh-nc/
+Richmond,VA,house-cleaning,240.0,76249,0.3147582263373946,1610,14.906832298136646,https://costinusa.com/house-cleaning/richmond-va/
+Riverside,CA,house-cleaning,245.0,90363,0.27112866992021073,2016,12.152777777777779,https://costinusa.com/house-cleaning/riverside-ca/
+Rochester,NY,house-cleaning,205.0,45516,0.45039107127164074,1155,17.748917748917748,https://costinusa.com/house-cleaning/rochester-ny/
+Sacramento,CA,house-cleaning,246.0,90577,0.27159212603641103,1889,13.022763366860772,https://costinusa.com/house-cleaning/sacramento-ca/
+Salt Lake City,UT,house-cleaning,270.0,74747,0.36121851044189063,1495,18.06020066889632,https://costinusa.com/house-cleaning/salt-lake-city-ut/
+San Antonio,TX,house-cleaning,210.0,66521,0.3156897821740503,1356,15.486725663716815,https://costinusa.com/house-cleaning/san-antonio-tx/
+San Bernardino,CA,house-cleaning,245.0,73836,0.3318164580963216,1675,14.626865671641792,https://costinusa.com/house-cleaning/san-bernardino-ca/
+San Diego,CA,house-cleaning,250.0,113912,0.21946765924573355,2453,10.191602119853242,https://costinusa.com/house-cleaning/san-diego-ca/
+San Francisco,CA,house-cleaning,265.0,141519,0.18725400829570588,2508,10.566188197767145,https://costinusa.com/house-cleaning/san-francisco-ca/
+San Jose,CA,house-cleaning,310.0,147847,0.20967621933485292,2699,11.48573545757688,https://costinusa.com/house-cleaning/san-jose-ca/
+Scottsdale,AZ,house-cleaning,200.0,103930,0.192437217357837,2067,9.675858732462506,https://costinusa.com/house-cleaning/scottsdale-az/
+Seattle,WA,house-cleaning,280.0,122809,0.2279963194879854,2120,13.20754716981132,https://costinusa.com/house-cleaning/seattle-wa/
+Spokane,WA,house-cleaning,250.0,73893,0.338327040450381,1376,18.16860465116279,https://costinusa.com/house-cleaning/spokane-wa/
+St. Louis,MO,house-cleaning,235.0,60150,0.39068994181213634,1153,20.381613183000866,https://costinusa.com/house-cleaning/st-louis-mo/
+Stockton,CA,house-cleaning,232.5,81713,0.28453244893713364,1622,14.334155363748458,https://costinusa.com/house-cleaning/stockton-ca/
+Tallahassee,FL,house-cleaning,190.0,57329,0.3314203980533412,1333,14.253563390847711,https://costinusa.com/house-cleaning/tallahassee-fl/
+Tampa,FL,house-cleaning,177.5,85565,0.20744463273534738,1857,9.558427571351642,https://costinusa.com/house-cleaning/tampa-fl/
+Tucson,AZ,house-cleaning,225.0,60112,0.37430130423210006,1222,18.412438625204583,https://costinusa.com/house-cleaning/tucson-az/
+Tulsa,OK,house-cleaning,217.5,61064,0.356183676143063,1132,19.213780918727917,https://costinusa.com/house-cleaning/tulsa-ok/
+Virginia Beach,VA,house-cleaning,247.5,101310,0.24429967426710097,1848,13.392857142857142,https://costinusa.com/house-cleaning/virginia-beach-va/
+Washington,DC,house-cleaning,275.0,109505,0.25113008538422904,2075,13.25301204819277,https://costinusa.com/house-cleaning/washington-dc/
+Wichita,KS,house-cleaning,180.0,66843,0.26928773394371885,1049,17.159199237368924,https://costinusa.com/house-cleaning/wichita-ks/
+Winston-Salem,NC,house-cleaning,175.0,60598,0.28878840885837814,1339,13.069454817027632,https://costinusa.com/house-cleaning/winston-salem-nc/
+Worcester,MA,house-cleaning,210.0,76206,0.27556885284623256,1734,12.110726643598616,https://costinusa.com/house-cleaning/worcester-ma/
+Yonkers,NY,house-cleaning,220.0,83125,0.2646616541353383,1837,11.976047904191617,https://costinusa.com/house-cleaning/yonkers-ny/
