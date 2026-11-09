@@ -1,0 +1,13 @@
+# Initial site mapping. Keep the space key unchanged after connecting GitBook.
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: US Homeowner Maintenance Cost Handbook
+  structure:
+    - type: space
+      key: costinusa-homeowner-handbook
+      title: Homeowner Cost Handbook
+      path: handbook
+      default: true
+      content:
+        directory: ./docs
+        language: en
